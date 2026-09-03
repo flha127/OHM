@@ -1,21 +1,27 @@
 {
-  "bus": {
+  "bus_stop": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
     "x": 0,
     "y": 0},
-  "subway": {
+  "subway_stop": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
     "x": 20,
     "y": 0},
-  "tram": {
+  "tram_stop": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
     "x": 40,
+    "y": 0},
+  "train_halt": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 60,
     "y": 0},
   "train_station": {
     "height": 20,
