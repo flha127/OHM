@@ -221,19 +221,19 @@
     "width": 20,
     "x": 160,
     "y": 40},
-  "headframe2": {
-    "height": 20,
+  "keep": {
+    "height": 40,
     "pixelRatio": 1,
     "width": 20,
     "x": 180,
     "y": 40},
-  "EMPTY": {
+  "grass_pattern": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
     "x": 200,
     "y": 40},
-  "EMPTY": {
+  "water_gate": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
