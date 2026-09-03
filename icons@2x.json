@@ -23,10 +23,22 @@
     "width": 20,
     "x": 60,
     "y": 0},
-  "water": {
+  "water_pattern": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
+    "x": 80,
+    "y": 0},
+  "platform_pattern": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 100,
+    "y": 0},
+  "tunnel_pattern": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 120,
     "x": 80,
     "y": 0},
   "peak": {
@@ -40,5 +52,11 @@
     "pixelRatio": 1,
     "width": 20,
     "x": 20,
-    "y": 20}
+    "y": 20},
+  "headframe": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 0,
+    "y": 40}
 }
