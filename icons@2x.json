@@ -1,44 +1,74 @@
 {
+  "needicon": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 0,
+    "y": 0},
   "bus_stop": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
-    "x": 0,
-    "y": 0},
-  "2": {
-    "height": 20,
-    "pixelRatio": 1,
-    "width": 20,
     "x": 20,
     "y": 0},
-  "3": {
+  "tram_stop": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
     "x": 40,
     "y": 0},
-  "4": {
+  "subway_station": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 60,
+    "y": 0},
+  "train_halt": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 80,
+    "y": 0},
+  "train_station": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 100,
+    "y": 0},
+  "water_pattern": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
     "x": 0,
     "y": 20},
-  "5": {
+  "platform_pattern": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
     "x": 20,
     "y": 20},
-  "6": {
+  "tunnel_pattern": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
     "x": 40,
     "y": 20},
-  "µ": {
+  "peak": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
     "x": 0,
+    "y": 40},
+  "spoil_heap": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 20,
+    "y": 40},
+  "headframe": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 40,
     "y": 40}
 }
