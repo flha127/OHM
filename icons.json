@@ -34,5 +34,11 @@
     "pixelRatio": 1,
     "width": 20,
     "x": 40,
-    "y": 20}
+    "y": 20},
+  "µ": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 0,
+    "y": 40}
 }
