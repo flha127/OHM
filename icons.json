@@ -197,13 +197,13 @@
     "width": 20,
     "x": 80,
     "y": 40},
-  "EMPTY": {
+  "military_pattern": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
     "x": 100,
     "y": 40},
-  "EMPTY": {
+  "wind_turbine": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
