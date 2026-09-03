@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="20"
+   height="20"
+   viewBox="0 0 5.2916666 5.2916666"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="prison.svg"
+   inkscape:export-filename="icons@2x.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="11.313709"
+     inkscape:cx="12.28598"
+     inkscape:cy="8.8388344"
+     inkscape:window-width="1920"
+     inkscape:window-height="974"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g2690">
+      <rect
+         style="fill:none;fill-opacity:1;stroke-width:0.133685"
+         id="rect238-8-4-1-7-4"
+         width="5.2916665"
+         height="5.2916665"
+         x="-5.2916665"
+         y="-1.110223e-16"
+         transform="scale(-1,1)" />
+      <path
+         d="M -2.4613953e-7,5.3860474e-8 V 5.2916665 H 5.2916668 V 5.3860474e-8 Z M 0.37797475,0.37797615 H 1.5119038 V 4.9136904 H 1.3229168 V 3.3191034 C 1.2098738,3.4528163 1.1339278,3.6143973 1.1339278,3.7797618 V 4.9136904 H 0.37797475 Z m 1.51190605,0 h 1.511904 V 4.9136904 h -0.188988 v -1.889881 h -1.133929 v 1.889881 h -0.188987 z m 1.88988,0 h 1.133929 V 4.9136904 H 4.1577378 V 3.7797618 c 0,-0.1653645 -0.07594,-0.3269455 -0.188988,-0.4606584 v 1.594587 H 3.7797608 Z M 2.6458318,1.1339286 c -0.227105,0 -0.428391,0.1013172 -0.566964,0.2598586 v 0.9921875 c 0.138572,0.1585416 0.339859,0.2598586 0.566964,0.2598586 0.227106,0 0.428393,-0.1013171 0.566965,-0.2598586 V 1.3937872 C 3.0742248,1.2352456 2.8729378,1.1339286 2.6458318,1.1339286 Z"
+         id="prison"
+         style="fill:#734a08;fill-opacity:1;stroke:none;stroke-width:0.264583" />
+    </g>
+  </g>
+</svg>

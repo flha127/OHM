@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="20"
+   height="20"
+   viewBox="0 0 5.2916666 5.2916666"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="theatre.svg"
+   inkscape:export-filename="icons@2x.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="11.313709"
+     inkscape:cx="12.28598"
+     inkscape:cy="8.8388344"
+     inkscape:window-width="1920"
+     inkscape:window-height="974"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g1729">
+      <rect
+         style="fill:none;fill-opacity:1;stroke-width:0.133685"
+         id="rect238-8-4-1-7-4"
+         width="5.2916665"
+         height="5.2916665"
+         x="-5.2916665"
+         y="-1.110223e-16"
+         transform="scale(-1,1)" />
+      <path
+         d="M 4.695386e-5,2.295386e-5 V 2.6458333 c 0,0 0,1.5118915 1.51189234614,1.5118915 0.184334,0 0.342151,-0.031403 0.484277,-0.070869 -0.02207,-0.182671 -0.01186,-0.3071031 -0.01186,-0.3071031 v -0.082682 c -0.129656,0.050621 -0.287254,0.082682 -0.472466,0.082682 -1.13391905,0 -1.13391905,-1.1339187 -1.13391905,-1.1339187 V 0.56698235 c 0.75594505,0.359853 1.51189205,0.359853 2.26783805,0 V 1.0040136 c 0.126427,0.05032 0.255748,0.097328 0.377972,0.1299288 V 2.365386e-5 c -1.133918,0.51891189614 -1.889865,0.49328669614 -3.0237830461395,0 z M 0.94498025,1.1339417 c -0.20875,0 -0.377974,0.1692243 -0.377974,0.3779729 0,0.2087486 0.169224,0.3779728 0.377974,0.3779728 0.20874805,0 0.37797205,-0.1692242 0.37797205,-0.3779728 0,-0.2087486 -0.169224,-0.3779729 -0.37797205,-0.3779729 z m 1.32290405,0 V 3.779752 c 0,0 0,1.5118916 1.511891,1.5118916 1.511893,0 1.511893,-1.5118916 1.511893,-1.5118916 V 1.1339417 c -1.133919,0.5189119 -1.889865,0.4932866 -3.023784,0 z m 0.944933,1.1339187 c 0.208748,0 0.377972,0.1692243 0.377972,0.3779729 0,0.2087487 -0.169224,0.3779728 -0.377972,0.3779728 -0.20875,0 -0.377974,-0.1692241 -0.377974,-0.3779728 0,-0.2087486 0.169224,-0.3779729 0.377974,-0.3779729 z m 1.133917,0 c 0.20875,0 0.377974,0.1692243 0.377974,0.3779729 0,0.2087487 -0.169224,0.3779728 -0.377974,0.3779728 -0.208748,0 -0.377972,-0.1692241 -0.377972,-0.3779728 0,-0.2087486 0.169224,-0.3779729 0.377972,-0.3779729 z m -2.834795,0.1889864 c -0.55268805,0 -0.75594605,0.3843792 -0.75594605,0.7559458 H 1.9844053 V 2.5867751 C 1.8693923,2.5030344 1.7182663,2.4568462 1.5119393,2.4568468 Z m 1.511891,1.3229052 h 1.511891 c 0,0.3779728 -0.377972,0.7559458 -0.755946,0.7559458 -0.377972,0 -0.755945,-0.377973 -0.755945,-0.7559458 z"
+         id="theatre"
+         style="fill:#cf7900;fill-opacity:1;stroke:none;stroke-width:0.264583" />
+    </g>
+  </g>
+</svg>

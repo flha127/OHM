@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="20"
+   height="20"
+   viewBox="0 0 5.2916666 5.2916666"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="police.svg"
+   inkscape:export-filename="icons@2x.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="11.313709"
+     inkscape:cx="12.28598"
+     inkscape:cy="8.8388344"
+     inkscape:window-width="1920"
+     inkscape:window-height="974"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g2329">
+      <rect
+         style="fill:none;fill-opacity:1;stroke-width:0.133685"
+         id="rect238-8-4-1-7-4"
+         width="5.2916665"
+         height="5.2916665"
+         x="-5.2916665"
+         y="-1.110223e-16"
+         transform="scale(-1,1)" />
+      <path
+         d="m 1.8898809,0 -0.377976,0.3779762 v 0.3779762 h 2.267858 V 0.3779762 L 3.4017849,0 Z m -0.377976,1.1339286 c -0.012586,0.063774 0,0.1283328 0,0.1959877 0,0.5412003 0.61206,0.9379408 1.133929,0.9379408 0.521867,0 1.133929,-0.3967405 1.133929,-0.9379408 0,-0.067656 0,-0.1959877 0,-0.1959877 z m 0,1.5119047 c -0.53631277,0 -0.75060397,0.7093018 -0.75595227,1.1339285 V 5.2916665 H 1.3347287 L 3.4017849,2.6458333 Z m 2.456845,0 -2.067057,2.6458332 h 2.634021 V 3.7797618 c 0,-0.4246661 -0.103129,-1.1339285 -0.566964,-1.1339285 z"
+         id="police"
+         style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.264583" />
+    </g>
+  </g>
+</svg>

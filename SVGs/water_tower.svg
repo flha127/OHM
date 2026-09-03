@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="20"
+   height="20"
+   viewBox="0 0 5.2916666 5.2916666"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="water_tower.svg"
+   inkscape:export-filename="icons@2x.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="16.000001"
+     inkscape:cx="25.062498"
+     inkscape:cy="15.687499"
+     inkscape:window-width="1920"
+     inkscape:window-height="974"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g870">
+      <rect
+         style="fill:none;fill-opacity:1;stroke-width:0.133685"
+         id="rect238-8-4-1-7-4"
+         width="5.2916665"
+         height="5.2916665"
+         x="-5.2916665"
+         y="-1.110223e-16"
+         transform="scale(-1,1)" />
+      <path
+         d="m 0.7559523,0 v 1.3229167 c 0,0.5469001 0.2988095,0.9374835 0.720517,1.1811755 L 1.1339285,5.2916665 h 0.5669643 l 0.07087,-0.5551524 0.8740699,-0.5787762 0.8740695,0.5905879 0.07087,0.5433407 h 0.566965 L 3.8151972,2.515904 C 4.2402162,2.2728745 4.5357142,1.8758244 4.5357142,1.3229167 V 0 Z m 1.2638579,2.7167038 c 0.4041411,0.10098 0.8476812,0.1109614 1.252046,0.011814 L 3.3427272,3.3191034 2.6458332,3.7797618 1.9489396,3.3191034 Z M 1.9016926,3.6616442 2.362351,3.9687499 1.8190103,4.3349143 Z m 1.4882816,0 0.08268,0.6732701 -0.5433409,-0.3661644 z"
+         id="water-tower"
+         style="fill:#666666;fill-opacity:1;stroke-width:0.264583"
+         sodipodi:nodetypes="cscccccccccscccccccccccccccc" />
+    </g>
+  </g>
+</svg>

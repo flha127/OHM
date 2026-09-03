@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="20"
+   height="20"
+   viewBox="0 0 5.2916666 5.2916666"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="courthouse.svg"
+   inkscape:export-filename="icons@2x.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="11.313709"
+     inkscape:cx="20.417707"
+     inkscape:cy="5.8336307"
+     inkscape:window-width="1920"
+     inkscape:window-height="974"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g1627">
+      <rect
+         style="fill:none;fill-opacity:1;stroke-width:0.133685"
+         id="rect238-8-4-1-7-4"
+         width="5.2916665"
+         height="5.2916665"
+         x="-5.2916665"
+         y="-1.110223e-16"
+         transform="scale(-1,1)" />
+      <path
+         d="M 2.6458338,-3.1139527e-8 C 2.2678568,-3.1139527e-8 2.2678568,0.37797614 2.2678568,0.37797614 L 0.85044673,0.75595234 V 1.1339284 L -2.6920929e-7,3.0238094 c 0,0.3779761 0.29935999920929,0.7559524 0.94494099920929,0.7559524 0.64558007,0 0.94494007,-0.3779763 0.94494007,-0.7559524 l -0.850447,-1.889881 h 1.228423 V 4.9136902 H 0.75595273 l -0.377976,0.3779763 H 4.9136908 L 4.5357138,4.9136902 H 3.0238098 V 1.1339284 h 1.228423 l -0.850448,1.889881 c 0,0.3779761 0.292153,0.7559524 0.944942,0.7559524 0.652787,0 0.94494,-0.3779763 0.94494,-0.7559524 L 4.4412198,1.1339284 V 0.75595234 l -1.41741,-0.3779762 c 0,0 0,-0.377976171139527 -0.377976,-0.377976171139527 z M 0.94494073,1.5119047 1.6063978,3.0238094 H 0.28348273 Z m 3.40178607,0 0.661457,1.5119047 h -1.322916 z"
+         id="courthouse"
+         style="fill:#734a08;fill-opacity:1;stroke-width:0.264583" />
+    </g>
+  </g>
+</svg>

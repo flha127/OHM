@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="20"
+   height="20"
+   viewBox="0 0 5.2916666 5.2916666"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="bank.svg"
+   inkscape:export-filename="icons@2x.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="11.313709"
+     inkscape:cx="12.28598"
+     inkscape:cy="8.8388344"
+     inkscape:window-width="1920"
+     inkscape:window-height="974"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g2247">
+      <rect
+         style="fill:none;fill-opacity:1;stroke-width:0.133685"
+         id="rect238-8-4-1-7-4"
+         width="5.2916665"
+         height="5.2916665"
+         x="-5.2916665"
+         y="-1.110223e-16"
+         transform="scale(-1,1)" />
+      <path
+         d="M -2.9613953e-7,0.7559521 V 3.4017857 C -2.9613953e-7,3.6388217 0.1601591,3.7797619 0.3779759,3.7797619 h 4.5357149 c 0.217817,0 0.377976,-0.1601595 0.377976,-0.3779762 V 0.7559521 Z M 1.1339284,1.1339283 h 3.0238094 c 0,0.3779762 0.377977,0.7559525 0.755953,0.7559525 v 0.7559524 c -0.377976,0 -0.755953,0.3779762 -0.755953,0.7559525 H 1.1339284 c 0,-0.3779763 -0.3779762,-0.7559525 -0.7559525,-0.7559525 V 1.8898808 c 0.3779763,0 0.7559525,-0.3779763 0.7559525,-0.7559525 z m 1.5119044,0.3779762 c -0.626251,0 -1.1339282,0.3384514 -1.1339282,0.7559525 0,0.4175012 0.5076772,0.7559524 1.1339282,0.7559524 0.626252,0 1.133929,-0.3384512 1.133929,-0.7559524 0,-0.4175011 -0.507677,-0.7559525 -1.133929,-0.7559525 z M -2.9613953e-7,3.9687501 C -2.9613953e-7,4.3945694 0.1695961,4.5357144 0.3779759,4.5357144 h 4.5357149 c 0.20838,0 0.377976,-0.1683253 0.377976,-0.5669643 -0.108915,0.1025014 -0.211411,0.188988 -0.377976,0.188988 H 0.3779759 c -0.1665658,0 -0.2754743,-0.092893 -0.37797619613953,-0.188988 z"
+         id="bank"
+         style="fill:#cf7900;fill-opacity:1;stroke:none;stroke-width:0.264583" />
+    </g>
+  </g>
+</svg>
