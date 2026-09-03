@@ -5,163 +5,163 @@
     "width": 20,
     "x": 0,
     "y": 0},
-  "EMPTY": {
+  "cafe": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
     "x": 20,
     "y": 0},
-  "EMPTY": {
+  "cinema": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
     "x": 40,
     "y": 0},
-  "EMPTY": {
+  "restaurant": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
     "x": 60,
     "y": 0},
-  "EMPTY": {
+  "police_station": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
     "x": 80,
     "y": 0},
-  "EMPTY": {
+  "fire_station": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
     "x": 100,
     "y": 0},
-  "EMPTY": {
+  "marketplace": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
     "x": 120,
     "y": 0},
-  "EMPTY": {
+  "theatre": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
     "x": 140,
     "y": 0},
-  "EMPTY": {
+  "watter_pattern": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
     "x": 160,
     "y": 0},
-  "EMPTY": {
+  "tunnel_pattern": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
     "x": 180,
     "y": 0},
-  "EMPTY": {
+  "platform_pattern": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
     "x": 200,
     "y": 0},
-  "EMPTY": {
+  "spoil_heap": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
     "x": 220,
     "y": 0},
-  "EMPTY": {
+  "peak": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
     "x": 240,
     "y": 0},
-  "EMPTY": {
+  "bell_tower": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
     "x": 260,
     "y": 0},
-    "EMPTY": {
+    "tram_stop": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
     "x": 0,
     "y": 20},
-  "EMPTY": {
+  "train_station": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
     "x": 20,
     "y": 20},
-  "EMPTY": {
+  "train_halt": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
     "x": 40,
     "y": 20},
-  "EMPTY": {
+  "subway_station": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
     "x": 60,
     "y": 20},
-  "EMPTY": {
+  "bus_stop": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
     "x": 80,
     "y": 20},
-  "EMPTY": {
+  "christian": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
     "x": 100,
     "y": 20},
-  "EMPTY": {
+  "windmill": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
     "x": 120,
     "y": 20},
-  "EMPTY": {
+  "prison": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
     "x": 140,
     "y": 20},
-  "EMPTY": {
+  "hotel": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
     "x": 160,
     "y": 20},
-  "EMPTY": {
+  "hospital": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
     "x": 180,
     "y": 20},
-  "EMPTY": {
+  "fortified_tower": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
     "x": 200,
     "y": 20},
-  "EMPTY": {
+  "clothes": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
     "x": 220,
     "y": 20},
-  "EMPTY": {
+  "courthouse": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
     "x": 240,
     "y": 20},
-  "EMPTY": {
+  "bank": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
