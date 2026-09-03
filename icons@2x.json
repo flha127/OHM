@@ -167,8 +167,8 @@
     "width": 20,
     "x": 260,
     "y": 20},
-    "headframe": {
-    "height": 20,
+  "headframe": {
+    "height": 40,
     "pixelRatio": 1,
     "width": 20,
     "x": 0,
@@ -180,7 +180,7 @@
     "x": 20,
     "y": 40},
   "city_gate": {
-    "height": 40,
+    "height": 20,
     "pixelRatio": 1,
     "width": 20,
     "x": 40,
@@ -215,7 +215,7 @@
     "width": 20,
     "x": 140,
     "y": 40},
-  "EMPTY": {
+  "bunker": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
