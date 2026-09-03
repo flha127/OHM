@@ -34,11 +34,11 @@
     "pixelRatio": 1,
     "width": 20,
     "x": 0,
-    "y": 0},
+    "y": 20},
   "spoil_heap": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
     "x": 20,
-    "y": 0}
+    "y": 20}
 }
