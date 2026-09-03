@@ -167,25 +167,25 @@
     "width": 20,
     "x": 260,
     "y": 20},
-    "EMPTY": {
+    "headframe": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
     "x": 0,
     "y": 40},
-  "headframe": {
+  "belfry": {
     "height": 40,
     "pixelRatio": 1,
     "width": 20,
     "x": 20,
     "y": 40},
-  "belfry": {
+  "city_gate": {
     "height": 40,
     "pixelRatio": 1,
     "width": 20,
     "x": 40,
     "y": 40},
-  "city_gate": {
+  "exchange": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
