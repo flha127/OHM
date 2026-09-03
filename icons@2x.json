@@ -47,7 +47,7 @@
     "width": 20,
     "x": 140,
     "y": 0},
-  "watter_pattern": {
+  "water_pattern": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
@@ -209,7 +209,7 @@
     "width": 20,
     "x": 120,
     "y": 40},
-  "EMPTY": {
+  "water_tower": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
