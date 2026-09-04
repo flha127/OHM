@@ -373,84 +373,6 @@
       }
     },
     {
-      "id": "boundary2",
-      "type": "line",
-      "source": "ohm",
-      "source-layer": "land_ohm_lines",
-      "filter": ["all", ["==", "admin_level", 2]],
-      "paint": {
-        "line-color": "rgba(197, 34, 161, 1)",
-        "line-width": [
-          "interpolate",
-          ["exponential", 1],
-          ["zoom"],
-          10,
-          4,
-          20,
-          4
-        ]
-      }
-    },
-    {
-      "id": "boundary4",
-      "type": "line",
-      "source": "ohm",
-      "source-layer": "land_ohm_lines",
-      "filter": ["all", ["==", "admin_level", 4]],
-      "paint": {
-        "line-color": "rgba(197, 34, 161, 1)",
-        "line-width": [
-          "interpolate",
-          ["exponential", 1],
-          ["zoom"],
-          10,
-          2,
-          20,
-          2
-        ]
-      }
-    },
-    {
-      "id": "boundary8",
-      "type": "line",
-      "source": "ohm",
-      "source-layer": "land_ohm_lines",
-      "minzoom": 10,
-      "filter": ["all", ["==", "admin_level", 8]],
-      "paint": {
-        "line-color": "rgba(197, 34, 161, 1)",
-        "line-width": [
-          "interpolate",
-          ["exponential", 1],
-          ["zoom"],
-          10,
-          1,
-          20,
-          1
-        ]
-      }
-    },
-    {
-      "id": "boundary9",
-      "type": "line",
-      "source": "ohm",
-      "source-layer": "land_ohm_lines",
-      "minzoom": 10,
-      "filter": ["all", ["==", "admin_level", 9]],
-      "paint": {
-        "line-color": "rgba(197, 34, 161, 1)",
-        "line-width": [
-          "interpolate",
-          ["exponential", 1],
-          ["zoom"],
-          10,
-          0.5,
-          20,
-          0.5
-        ]
-      }
-    },
-    {
       "id": "hedge",
       "type": "line",
       "source": "ohm",
@@ -862,9 +784,9 @@
           ["exponential", 1],
           ["zoom"],
           10,
-          0.24,
+          0.16,
           20,
-          24
+          16
         ]
       }
     },
@@ -931,7 +853,7 @@
         "line-join": "round"
       },
       "paint": {
-        "line-color": "rgba(208, 97, 67, 1)",
+        "line-color": "rgba(199, 141, 43, 1)",
         "line-width": [
           "interpolate",
           ["exponential", 1],
@@ -955,7 +877,7 @@
         "line-join": "round"
       },
       "paint": {
-        "line-color": "rgba(208, 97, 67, 1)",
+        "line-color": "rgba(199, 141, 43, 1)",
         "line-width": [
           "interpolate",
           ["exponential", 1],
@@ -979,7 +901,7 @@
         "line-join": "round"
       },
       "paint": {
-        "line-color": "rgba(222, 66, 118, 1)",
+        "line-color": "rgba(208, 97, 67, 1)",
         "line-width": [
           "interpolate",
           ["exponential", 1],
@@ -1003,7 +925,7 @@
         "line-join": "round"
       },
       "paint": {
-        "line-color": "rgba(222, 66, 118, 1)",
+        "line-color": "rgba(208, 97, 67, 1)",
         "line-width": [
           "interpolate",
           ["exponential", 1],
@@ -1291,9 +1213,9 @@
           ["exponential", 1],
           ["zoom"],
           10,
-          0.2,
+          0.12,
           20,
-          20
+          12
         ]
       }
     },
@@ -1408,7 +1330,7 @@
         "line-join": "round"
       },
       "paint": {
-        "line-color": "rgba(246, 150, 122, 1)",
+        "line-color": "rgba(244, 195, 125, 1)",
         "line-width": [
           "interpolate",
           ["exponential", 1],
@@ -1432,7 +1354,7 @@
         "line-join": "round"
       },
       "paint": {
-        "line-color": "rgba(246, 150, 122, 1)",
+        "line-color": "rgba(244, 195, 125, 1)",
         "line-width": [
           "interpolate",
           ["exponential", 1],
@@ -1456,7 +1378,7 @@
         "line-join": "round"
       },
       "paint": {
-        "line-color": "rgba(230, 110, 137, 1)",
+        "line-color": "rgba(246, 150, 122, 1)",
         "line-width": [
           "interpolate",
           ["exponential", 1],
@@ -1480,7 +1402,7 @@
         "line-join": "round"
       },
       "paint": {
-        "line-color": "rgba(230, 110, 137, 1)",
+        "line-color": "rgba(246, 150, 122, 1)",
         "line-width": [
           "interpolate",
           ["exponential", 1],
@@ -2239,6 +2161,198 @@
       }
     },
     {
+      "id": "boundary2",
+      "type": "line",
+      "source": "ohm",
+      "source-layer": "land_ohm_lines",
+      "filter": ["all", ["==", "admin_level", 2]],
+      "paint": {
+        "line-color": "rgba(197, 34, 161, 1)",
+        "line-width": [
+          "interpolate",
+          ["exponential", 1],
+          ["zoom"],
+          10,
+          4,
+          20,
+          4
+        ]
+      }
+    },
+    {
+      "id": "boundary4",
+      "type": "line",
+      "source": "ohm",
+      "source-layer": "land_ohm_lines",
+      "filter": ["all", ["==", "admin_level", 4]],
+      "paint": {
+        "line-color": "rgba(197, 34, 161, 1)",
+        "line-width": [
+          "interpolate",
+          ["exponential", 1],
+          ["zoom"],
+          10,
+          2,
+          20,
+          2
+        ]
+      }
+    },
+    {
+      "id": "boundary8",
+      "type": "line",
+      "source": "ohm",
+      "source-layer": "land_ohm_lines",
+      "minzoom": 10,
+      "filter": ["all", ["==", "admin_level", 8]],
+      "paint": {
+        "line-color": "rgba(197, 34, 161, 1)",
+        "line-width": [
+          "interpolate",
+          ["exponential", 1],
+          ["zoom"],
+          10,
+          1,
+          20,
+          1
+        ]
+      }
+    },
+    {
+      "id": "boundary9",
+      "type": "line",
+      "source": "ohm",
+      "source-layer": "land_ohm_lines",
+      "minzoom": 10,
+      "filter": ["all", ["==", "admin_level", 9]],
+      "paint": {
+        "line-color": "rgba(197, 34, 161, 1)",
+        "line-width": [
+          "interpolate",
+          ["exponential", 1],
+          ["zoom"],
+          10,
+          0.5,
+          20,
+          0.5
+        ]
+      }
+    },
+    {
+      "id": "[name] minor highway",
+      "type": "symbol",
+      "source": "ohm",
+      "source-layer": "transport_lines",
+      "minzoom": 14,
+      "filter": [
+        "all",
+        [
+          "in",
+          "type",
+          "cycleway",
+          "footway",
+          "living_street",
+          "path",
+          "pedestrian",
+          "residential",
+          "service",
+          "steps",
+          "unclassified"
+        ]
+      ],
+      "layout": {
+        "text-field": "{name}",
+        "text-font": ["OpenHistorical"],
+        "text-size": [
+          "interpolate",
+          ["exponential", 1],
+          ["zoom"],
+          10,
+          0.28,
+          20,
+          28
+        ],
+        "symbol-placement": "line"
+      },
+      "paint": {
+        "text-color": "rgba(64, 64, 64, 1)",
+        "text-halo-color": "rgba(255, 255, 255, 1)",
+        "text-halo-width": 1
+      }
+    },
+    {
+      "id": "[name] tertiary highway",
+      "type": "symbol",
+      "source": "ohm",
+      "source-layer": "transport_lines",
+      "minzoom": 13,
+      "filter": ["all", ["in", "type", "tertiary", "tertiary_link"]],
+      "layout": {
+        "text-field": "{name}",
+        "text-font": ["OpenHistorical"],
+        "text-size": [
+          "interpolate",
+          ["exponential", 1],
+          ["zoom"],
+          10,
+          0.28,
+          20,
+          28
+        ],
+        "symbol-placement": "line"
+      },
+      "paint": {
+        "text-color": "rgba(64, 64, 64, 1)",
+        "text-halo-color": "rgba(255, 255, 255, 1)",
+        "text-halo-width": 1
+      }
+    },
+    {
+      "id": "[name] main highway",
+      "type": "symbol",
+      "source": "ohm",
+      "source-layer": "transport_lines",
+      "minzoom": 12,
+      "filter": [
+        "all",
+        [
+          "in",
+          "type",
+          "motorway",
+          "motorway_link",
+          "primary",
+          "primary_link",
+          "secondary",
+          "secondary_link",
+          "trunk",
+          "trunk_link"
+        ]
+      ],
+      "layout": {
+        "text-field": "{name}",
+        "text-font": ["OpenHistorical"],
+        "text-size": [
+          "interpolate",
+          ["exponential", 1],
+          ["zoom"],
+          10,
+          0.28,
+          20,
+          28
+        ],
+        "symbol-placement": "line",
+        "icon-allow-overlap": false,
+        "icon-offset": [0, 0],
+        "text-offset": [0, 0],
+        "text-allow-overlap": true
+      },
+      "paint": {
+        "text-color": "rgba(64, 64, 64, 1)",
+        "text-halo-color": "rgba(255, 255, 255, 1)",
+        "text-halo-width": 1
+      }
+    },
+    {
       "id": "peak",
       "type": "symbol",
       "source": "ohm",
@@ -2408,19 +2522,6 @@
       }
     },
     {
-      "id": "belfry icon",
-      "type": "symbol",
-      "source": "ohm",
-      "source-layer": "buildings",
-      "minzoom": 10,
-      "filter": ["all", ["in", "type", "belfry"]],
-      "layout": {
-        "icon-image": "belfry",
-        "icon-allow-overlap": true,
-        "icon-size": 1
-      }
-    },
-    {
       "id": "bell tower",
       "type": "symbol",
       "source": "ohm",
@@ -2447,19 +2548,6 @@
       }
     },
     {
-      "id": "place of worship",
-      "type": "symbol",
-      "source": "ohm",
-      "source-layer": "amenity_points_centroids",
-      "minzoom": 13,
-      "filter": [
-        "all",
-        ["in", "type", "place_of_worship"],
-        ["!in", "religion", "christian"]
-      ],
-      "layout": {"icon-image": "needicon", "icon-allow-overlap": true}
-    },
-    {
       "id": "buddhist",
       "type": "symbol",
       "source": "ohm",
@@ -2468,9 +2556,9 @@
       "filter": [
         "all",
         ["in", "type", "place_of_worship"],
-        ["!in", "religion", "buddhist"]
+        ["in", "religion", "buddhist"]
       ],
-      "layout": {"icon-image": "needicon", "icon-allow-overlap": true}
+      "layout": {"icon-image": "buddhist", "icon-allow-overlap": true}
     },
     {
       "id": "christian",
@@ -2494,9 +2582,9 @@
       "filter": [
         "all",
         ["in", "type", "place_of_worship"],
-        ["!in", "religion", "hindu"]
+        ["in", "religion", "hindu"]
       ],
-      "layout": {"icon-image": "needicon", "icon-allow-overlap": true}
+      "layout": {"icon-image": "hindu", "icon-allow-overlap": true}
     },
     {
       "id": "jewish",
@@ -2507,9 +2595,9 @@
       "filter": [
         "all",
         ["in", "type", "place_of_worship"],
-        ["!in", "religion", "jewish"]
+        ["in", "religion", "jewish"]
       ],
-      "layout": {"icon-image": "needicon", "icon-allow-overlap": true}
+      "layout": {"icon-image": "jewish", "icon-allow-overlap": true}
     },
     {
       "id": "muslim",
@@ -2520,9 +2608,9 @@
       "filter": [
         "all",
         ["in", "type", "place_of_worship"],
-        ["!in", "religion", "muslim"]
+        ["in", "religion", "muslim"]
       ],
-      "layout": {"icon-image": "needicon", "icon-allow-overlap": true}
+      "layout": {"icon-image": "muslim", "icon-allow-overlap": true}
     },
     {
       "id": "taoist",
@@ -2533,9 +2621,9 @@
       "filter": [
         "all",
         ["in", "type", "place_of_worship"],
-        ["!in", "religion", "taoist"]
+        ["in", "religion", "taoist"]
       ],
-      "layout": {"icon-image": "needicon", "icon-allow-overlap": true}
+      "layout": {"icon-image": "taoist", "icon-allow-overlap": true}
     },
     {
       "id": "shinto",
@@ -2546,9 +2634,9 @@
       "filter": [
         "all",
         ["in", "type", "place_of_worship"],
-        ["!in", "religion", "shinto"]
+        ["in", "religion", "shinto"]
       ],
-      "layout": {"icon-image": "needicon", "icon-allow-overlap": true}
+      "layout": {"icon-image": "shinto", "icon-allow-overlap": true}
     },
     {
       "id": "other religion",
@@ -2571,7 +2659,7 @@
           "shinto"
         ]
       ],
-      "layout": {"icon-image": "needicon", "icon-allow-overlap": true}
+      "layout": {"icon-image": "place_of_worship", "icon-allow-overlap": true}
     },
     {
       "id": "bank",
@@ -2637,7 +2725,11 @@
         ["in", "type", "bus_stop"],
         ["!in", "type", "tram_stop"]
       ],
-      "layout": {"icon-image": "bus_stop", "icon-allow-overlap": true}
+      "layout": {
+        "icon-image": "bus_stop",
+        "icon-allow-overlap": true,
+        "icon-size": 0.8
+      }
     },
     {
       "id": "tram stop",
@@ -2646,7 +2738,11 @@
       "source-layer": "transport_points_centroids",
       "minzoom": 16,
       "filter": ["all", ["in", "type", "tram_stop"]],
-      "layout": {"icon-image": "tram_stop", "icon-allow-overlap": true}
+      "layout": {
+        "icon-image": "tram_stop",
+        "icon-allow-overlap": true,
+        "icon-size": 0.8
+      }
     },
     {
       "id": "prison icon",
@@ -2656,6 +2752,23 @@
       "minzoom": 14,
       "filter": ["all", ["in", "type", "prison"]],
       "layout": {"icon-image": "prison", "icon-allow-overlap": true}
+    },
+    {
+      "id": "bastion icon",
+      "type": "symbol",
+      "metadata": {"maputnik:comment": "bastion,ravelin,counterguard,redoubt"},
+      "source": "ohm",
+      "source-layer": "buildings_points_centroids",
+      "minzoom": 14,
+      "filter": [
+        "all",
+        ["in", "type", "bastion", "ravelin", "counterguard", "redoubt"]
+      ],
+      "layout": {
+        "icon-allow-overlap": true,
+        "icon-size": 2,
+        "icon-image": "fortification_generic"
+      }
     },
     {
       "id": "fortified tower icon (building:part)",
@@ -2693,6 +2806,19 @@
       }
     },
     {
+      "id": "battery tower",
+      "type": "symbol",
+      "source": "ohm",
+      "source-layer": "buildings_points_centroids",
+      "minzoom": 14,
+      "filter": ["all", ["in", "type", "battery_tower"]],
+      "layout": {
+        "icon-image": "battery_tower",
+        "icon-allow-overlap": true,
+        "icon-size": 1.2
+      }
+    },
+    {
       "id": "keep",
       "type": "symbol",
       "source": "ohm",
@@ -2707,36 +2833,13 @@
       }
     },
     {
-      "id": "battery tower",
+      "id": "barbican",
       "type": "symbol",
       "source": "ohm",
-      "source-layer": "buildings_points_centroids",
+      "source-layer": "buildings",
       "minzoom": 14,
-      "filter": ["all", ["in", "type", "battery_tower"]],
-      "layout": {
-        "icon-image": "battery_tower",
-        "icon-allow-overlap": true,
-        "icon-size": 1.2
-      }
-    },
-    {
-      "id": "bastion icon",
-      "type": "symbol",
-      "metadata": {
-        "maputnik:comment": "bastion,battery_tower,fortified_tower,keep,ravelin,counterguard,redoubt"
-      },
-      "source": "ohm",
-      "source-layer": "buildings_points_centroids",
-      "minzoom": 14,
-      "filter": [
-        "all",
-        ["in", "type", "bastion", "ravelin", "counterguard", "redoubt"]
-      ],
-      "layout": {
-        "icon-image": "fortified_tower",
-        "icon-allow-overlap": true,
-        "icon-size": 0.8
-      }
+      "filter": ["all", ["in", "type", "barbican"]],
+      "layout": {"icon-image": "barbican", "icon-allow-overlap": true}
     },
     {
       "id": "water gate icon",
@@ -2748,22 +2851,33 @@
       "layout": {"icon-allow-overlap": true, "icon-image": "water_gate"}
     },
     {
-      "id": "barbican",
-      "type": "symbol",
-      "source": "ohm",
-      "source-layer": "buildings",
-      "minzoom": 14,
-      "filter": ["all", ["in", "type", "barbican"]],
-      "layout": {"icon-image": "city_gate", "icon-allow-overlap": true}
-    },
-    {
       "id": "city gate icon",
       "type": "symbol",
       "source": "ohm",
       "source-layer": "buildings_points_centroids",
       "minzoom": 14,
-      "filter": ["all", ["in", "type", "city_gate"]],
+      "filter": [
+        "all",
+        ["in", "type", "city_gate"],
+        ["<", "start_decdate", 1492.00137]
+      ],
       "layout": {"icon-image": "city_gate", "icon-allow-overlap": true}
+    },
+    {
+      "id": "city gate Early modern period",
+      "type": "symbol",
+      "source": "ohm",
+      "source-layer": "buildings_points_centroids",
+      "minzoom": 14,
+      "filter": [
+        "all",
+        ["in", "type", "city_gate"],
+        [">=", "start_decdate", 1492.00137]
+      ],
+      "layout": {
+        "icon-image": "city_gate_Early_modern_period",
+        "icon-allow-overlap": true
+      }
     },
     {
       "id": "courthouse icon",
@@ -2819,14 +2933,51 @@
       }
     },
     {
+      "id": "belfry icon",
+      "type": "symbol",
+      "source": "ohm",
+      "source-layer": "buildings",
+      "minzoom": 10,
+      "filter": ["all", ["in", "type", "belfry"]],
+      "layout": {
+        "icon-image": "belfry",
+        "icon-allow-overlap": true,
+        "icon-size": 1.2
+      }
+    },
+    {
+      "id": "village hall icon",
+      "type": "symbol",
+      "source": "ohm",
+      "source-layer": "amenity_points_centroids",
+      "minzoom": 15,
+      "filter": ["all", ["in", "type", "village_hall"]],
+      "layout": {"icon-image": "village_hall", "icon-allow-overlap": true}
+    },
+    {
+      "id": "town hall icon",
+      "type": "symbol",
+      "metadata": {"maputnik:comment": "city_hall,town_hall,townhall"},
+      "source": "ohm",
+      "source-layer": "amenity_points_centroids",
+      "minzoom": 15,
+      "filter": ["all", ["in", "type", "town_hall", "townhall"]],
+      "layout": {
+        "icon-image": "town_hall",
+        "icon-allow-overlap": true,
+        "icon-offset": [0, -2],
+        "text-offset": [0, 0]
+      }
+    },
+    {
       "id": "city hall icon",
       "type": "symbol",
       "metadata": {"maputnik:comment": "city_hall,town_hall,townhall"},
       "source": "ohm",
       "source-layer": "amenity_points_centroids",
       "minzoom": 15,
-      "filter": ["all", ["in", "type", "city_hall", "town_hall", "townhall"]],
-      "layout": {"icon-image": "needicon", "icon-allow-overlap": true}
+      "filter": ["all", ["in", "type", "city_hall"]],
+      "layout": {"icon-image": "city_hall", "icon-allow-overlap": true}
     },
     {
       "id": "headframe",
@@ -2872,6 +3023,24 @@
       "minzoom": 15,
       "filter": ["all", ["in", "type", "castle", "fort"]],
       "layout": {"icon-image": "needicon", "icon-allow-overlap": true}
+    },
+    {
+      "id": "catenary mast",
+      "type": "symbol",
+      "source": "ohm",
+      "source-layer": "other_points_centroids",
+      "minzoom": 15,
+      "filter": ["all", ["in", "type", "catenary_mast"]],
+      "layout": {"icon-image": "catenary_mast", "icon-allow-overlap": true}
+    },
+    {
+      "id": "street lamp",
+      "type": "symbol",
+      "source": "ohm",
+      "source-layer": "transport_points_centroids",
+      "minzoom": 15,
+      "filter": ["all", ["in", "type", "street_lamp"]],
+      "layout": {"icon-image": "street_lamp", "icon-allow-overlap": true}
     },
     {
       "id": "river name",
@@ -2930,7 +3099,7 @@
       }
     },
     {
-      "id": "residential name",
+      "id": "[name] residential",
       "type": "symbol",
       "source": "ohm",
       "source-layer": "landuse_points_centroids",
@@ -2949,7 +3118,7 @@
       }
     },
     {
-      "id": "industrial name",
+      "id": "[name] industrial",
       "type": "symbol",
       "source": "ohm",
       "source-layer": "landuse_points_centroids",
@@ -2963,120 +3132,6 @@
       },
       "paint": {
         "text-color": "rgba(169, 73, 153, 1)",
-        "text-halo-color": "rgba(255, 255, 255, 1)",
-        "text-halo-width": 1
-      }
-    },
-    {
-      "id": "minor highway name",
-      "type": "symbol",
-      "source": "ohm",
-      "source-layer": "transport_lines",
-      "minzoom": 14,
-      "filter": [
-        "all",
-        [
-          "in",
-          "type",
-          "cycleway",
-          "footway",
-          "living_street",
-          "path",
-          "pedestrian",
-          "residential",
-          "service",
-          "steps",
-          "unclassified"
-        ]
-      ],
-      "layout": {
-        "text-field": "{name}",
-        "text-font": ["OpenHistorical"],
-        "text-size": [
-          "interpolate",
-          ["exponential", 1],
-          ["zoom"],
-          10,
-          0.28,
-          20,
-          28
-        ],
-        "symbol-placement": "line"
-      },
-      "paint": {
-        "text-color": "rgba(64, 64, 64, 1)",
-        "text-halo-color": "rgba(255, 255, 255, 1)",
-        "text-halo-width": 1
-      }
-    },
-    {
-      "id": "tertiary highway name",
-      "type": "symbol",
-      "source": "ohm",
-      "source-layer": "transport_lines",
-      "minzoom": 13,
-      "filter": ["all", ["in", "type", "tertiary", "tertiary_link"]],
-      "layout": {
-        "text-field": "{name}",
-        "text-font": ["OpenHistorical"],
-        "text-size": [
-          "interpolate",
-          ["exponential", 1],
-          ["zoom"],
-          10,
-          0.28,
-          20,
-          28
-        ],
-        "symbol-placement": "line"
-      },
-      "paint": {
-        "text-color": "rgba(64, 64, 64, 1)",
-        "text-halo-color": "rgba(255, 255, 255, 1)",
-        "text-halo-width": 1
-      }
-    },
-    {
-      "id": "main highway name",
-      "type": "symbol",
-      "source": "ohm",
-      "source-layer": "transport_lines",
-      "minzoom": 12,
-      "filter": [
-        "all",
-        [
-          "in",
-          "type",
-          "motorway",
-          "motorway_link",
-          "primary",
-          "primary_link",
-          "secondary",
-          "secondary_link",
-          "trunk",
-          "trunk_link"
-        ]
-      ],
-      "layout": {
-        "text-field": "{name}",
-        "text-font": ["OpenHistorical"],
-        "text-size": [
-          "interpolate",
-          ["exponential", 1],
-          ["zoom"],
-          10,
-          0.28,
-          20,
-          28
-        ],
-        "symbol-placement": "line",
-        "icon-allow-overlap": false,
-        "icon-offset": [0, 0],
-        "text-offset": [0, 0],
-        "text-allow-overlap": true
-      },
-      "paint": {
-        "text-color": "rgba(64, 64, 64, 1)",
         "text-halo-color": "rgba(255, 255, 255, 1)",
         "text-halo-width": 1
       }
@@ -3156,7 +3211,7 @@
       }
     },
     {
-      "id": "buildings:part name",
+      "id": "[name] buildings:part",
       "type": "symbol",
       "source": "ohm",
       "source-layer": "buildings_points_centroids",
@@ -3180,46 +3235,45 @@
       }
     },
     {
-      "id": "buildings name",
+      "id": "[name] buildings",
       "type": "symbol",
+      "metadata": {
+        "maputnik:comment": "artwork,basilica,battery_tower,bunker,cathedral,chapel,church,city_gate,cloth_hall,exchange,fortified_tower,water_gate,courthouse,fire_station,hostel,hotel,marketplace,market_hall,memorial,prison,theatre,townhall,train_station,water_tower"
+      },
       "source": "ohm",
       "source-layer": "buildings_points_centroids",
       "minzoom": 17,
       "filter": [
         "all",
+        ["!=", "class", "building:part"],
         [
           "!in",
           "type",
           "artwork",
           "basilica",
+          "battery_tower",
           "bunker",
           "cathedral",
           "chapel",
           "church",
+          "city_gate",
+          "cloth_hall",
+          "exchange",
+          "fortified_tower",
+          "water_gate",
           "courthouse",
           "fire_station",
+          "hostel",
+          "hotel",
+          "marketplace",
+          "market_hall",
           "memorial",
           "prison",
+          "theatre",
           "townhall",
-          "train_station"
-        ],
-        ["!=", "class", "building:part"],
-        ["!in", "type", "city_gate", "water_gate"],
-        [
-          "!in",
-          "type",
-          "bastion",
-          "battery_tower",
-          "fortified_tower",
-          "keep",
-          "ravelin",
-          "counterguard",
-          "redoubt"
-        ],
-        ["!in", "type", "exchange", "marketplace", "market_hall"],
-        ["!in", "type", "opera", "theatre"],
-        ["!in", "type", "water_tower"],
-        ["!in", "type", "cloth_hall"]
+          "train_station",
+          "water_tower"
+        ]
       ],
       "layout": {
         "text-field": "{name}",
@@ -3236,7 +3290,7 @@
       }
     },
     {
-      "id": "buildings with icon name",
+      "id": "[name] buildings with icon",
       "type": "symbol",
       "source": "ohm",
       "source-layer": "buildings_points_centroids",
@@ -3263,7 +3317,7 @@
       }
     },
     {
-      "id": "fort name",
+      "id": "[name] fort",
       "type": "symbol",
       "source": "ohm",
       "source-layer": "other_points_centroids",
@@ -3278,7 +3332,7 @@
         "text-size": 14,
         "text-max-width": 5,
         "text-anchor": "top",
-        "text-offset": [0, 1]
+        "text-offset": [0, 0.5]
       },
       "paint": {
         "text-color": "rgba(185, 0, 0, 1)",
@@ -3287,12 +3341,13 @@
       }
     },
     {
-      "id": "place of worship name",
+      "id": "[name] tourism orange",
       "type": "symbol",
+      "metadata": {"maputnik:comment": "hostel,hotel"},
       "source": "ohm",
-      "source-layer": "amenity_points_centroids",
-      "minzoom": 15,
-      "filter": ["all", ["in", "type", "place_of_worship"]],
+      "source-layer": "other_points_centroids",
+      "minzoom": 18,
+      "filter": ["all", ["in", "type", "hostel", "hotel"]],
       "layout": {
         "text-field": "{name}",
         "text-font": ["OpenHistorical"],
@@ -3308,18 +3363,19 @@
         "symbol-placement": "point",
         "visibility": "visible",
         "text-max-width": 5,
-        "text-offset": [0, 1],
+        "text-offset": [0, 0.5],
         "text-anchor": "top"
       },
       "paint": {
-        "text-color": "rgba(0, 0, 0, 1)",
+        "text-color": "rgba(207, 121, 0, 1)",
         "text-halo-color": "rgba(255, 255, 255, 1)",
         "text-halo-width": 1
       }
     },
     {
-      "id": "cloth, sports shop name",
+      "id": "[name] shop",
       "type": "symbol",
+      "metadata": {"maputnik:comment": "clothes,sports"},
       "source": "ohm",
       "source-layer": "other_points_centroids",
       "minzoom": 18,
@@ -3343,13 +3399,13 @@
         "text-anchor": "top"
       },
       "paint": {
-        "text-color": "rgba(172, 57, 172, 1)",
+        "text-color": "rgba(207, 121, 0, 1)",
         "text-halo-color": "rgba(255, 255, 255, 1)",
-        "text-halo-width": 2
+        "text-halo-width": 1
       }
     },
     {
-      "id": "amenity name",
+      "id": "[name] amenity orange",
       "type": "symbol",
       "metadata": {
         "maputnik:comment": "bank,cafe,cinema,cloth_hall,exchange,marketplace,restaurant,theatre"
@@ -3387,7 +3443,7 @@
         "symbol-placement": "point",
         "visibility": "visible",
         "text-max-width": 5,
-        "text-offset": [0, 1],
+        "text-offset": [0, 0.5],
         "text-anchor": "top"
       },
       "paint": {
@@ -3397,12 +3453,12 @@
       }
     },
     {
-      "id": "hotel name",
+      "id": "[name] amenity black",
       "type": "symbol",
       "source": "ohm",
-      "source-layer": "other_points_centroids",
-      "minzoom": 18,
-      "filter": ["all", ["in", "type", "hostel"]],
+      "source-layer": "amenity_points_centroids",
+      "minzoom": 15,
+      "filter": ["all", ["in", "type", "place_of_worship"]],
       "layout": {
         "text-field": "{name}",
         "text-font": ["OpenHistorical"],
@@ -3422,7 +3478,7 @@
         "text-anchor": "top"
       },
       "paint": {
-        "text-color": "rgba(207, 121, 0, 1)",
+        "text-color": "rgba(0, 0, 0, 1)",
         "text-halo-color": "rgba(255, 255, 255, 1)",
         "text-halo-width": 1
       }
@@ -3457,7 +3513,7 @@
       }
     },
     {
-      "id": "emergency name",
+      "id": "[name] amenity red",
       "type": "symbol",
       "source": "ohm",
       "source-layer": "amenity_points_centroids",
@@ -3478,7 +3534,7 @@
         "symbol-placement": "point",
         "visibility": "visible",
         "text-max-width": 5,
-        "text-offset": [0, 1],
+        "text-offset": [0, 0.5],
         "text-anchor": "top"
       },
       "paint": {
@@ -3519,7 +3575,7 @@
       }
     },
     {
-      "id": "defensive work name",
+      "id": "[name] defensive work",
       "type": "symbol",
       "metadata": {
         "maputnik:comment": "bunker\n\ncity_gate,water_gate\n\nbastion,battery_tower,fortified_tower,keep,ravelin,counterguard,redoubt"
@@ -3569,7 +3625,7 @@
       }
     },
     {
-      "id": "courthouses name",
+      "id": "[name] amenity brown",
       "type": "symbol",
       "metadata": {"maputnik:comment": "courthouse,prison,townhall"},
       "source": "ohm",
@@ -3591,7 +3647,7 @@
         "symbol-placement": "point",
         "visibility": "visible",
         "text-max-width": 5,
-        "text-offset": [0, 1],
+        "text-offset": [0, 0.5],
         "text-anchor": "top"
       },
       "paint": {
