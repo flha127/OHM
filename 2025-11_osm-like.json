@@ -48,7 +48,7 @@
       "paint": {"fill-color": "rgba(173, 209, 158, 1)"}
     },
     {
-      "id": "traffic_island",
+      "id": "traffic island",
       "type": "fill",
       "source": "ohm",
       "source-layer": "landuse_areas",
@@ -56,7 +56,7 @@
       "paint": {"fill-color": "rgba(233, 233, 233, 1)"}
     },
     {
-      "id": "farmland_areas",
+      "id": "farmland area",
       "type": "fill",
       "source": "ohm",
       "source-layer": "landuse_areas",
@@ -64,7 +64,7 @@
       "paint": {"fill-color": "rgba(238, 240, 213, 1)"}
     },
     {
-      "id": "commercial_areas",
+      "id": "commercial area",
       "type": "fill",
       "source": "ohm",
       "source-layer": "landuse_areas",
@@ -80,7 +80,7 @@
       "paint": {"fill-color": "rgba(199, 199, 180, 1)"}
     },
     {
-      "id": "wastewater_plant",
+      "id": "wastewater plant",
       "type": "fill",
       "source": "ohm",
       "source-layer": "other_areas",
@@ -88,7 +88,7 @@
       "paint": {"fill-color": "rgba(235, 219, 232, 1)"}
     },
     {
-      "id": "industrial_areas",
+      "id": "industrial area",
       "type": "fill",
       "source": "ohm",
       "source-layer": "landuse_areas",
@@ -96,7 +96,7 @@
       "paint": {"fill-color": "rgba(235, 219, 232, 1)"}
     },
     {
-      "id": "religious areas",
+      "id": "religious area",
       "type": "fill",
       "source": "ohm",
       "source-layer": "landuse_areas",
@@ -104,7 +104,7 @@
       "paint": {"fill-color": "rgba(208, 208, 208, 1)"}
     },
     {
-      "id": "residential_areas",
+      "id": "residential area",
       "type": "fill",
       "source": "ohm",
       "source-layer": "landuse_areas",
@@ -112,7 +112,7 @@
       "paint": {"fill-color": "rgba(224, 223, 223, 1)"}
     },
     {
-      "id": "military_areas",
+      "id": "military area",
       "type": "fill",
       "source": "ohm",
       "source-layer": "landuse_areas",
@@ -120,7 +120,7 @@
       "paint": {"fill-color": "rgba(243, 227, 221, 1)"}
     },
     {
-      "id": "police_areas",
+      "id": "police area",
       "type": "fill",
       "source": "ohm",
       "source-layer": "amenity_areas",
@@ -128,7 +128,7 @@
       "paint": {"fill-color": "rgba(243, 227, 221, 1)"}
     },
     {
-      "id": "spoil_heap_areas",
+      "id": "spoil heap area",
       "type": "fill",
       "source": "ohm",
       "source-layer": "other_areas",
@@ -136,7 +136,7 @@
       "paint": {"fill-color": "rgba(190, 183, 176, 1)"}
     },
     {
-      "id": "prison_areas",
+      "id": "prison area",
       "type": "fill",
       "source": "ohm",
       "source-layer": "amenity_areas",
@@ -144,7 +144,7 @@
       "paint": {"fill-color": "rgba(227, 225, 220, 1)"}
     },
     {
-      "id": "school_areas",
+      "id": "school area",
       "type": "fill",
       "source": "ohm",
       "source-layer": "amenity_areas",
@@ -152,7 +152,7 @@
       "paint": {"fill-color": "rgba(238, 240, 213, 1)"}
     },
     {
-      "id": "hospital_areas",
+      "id": "hospital area",
       "type": "fill",
       "source": "ohm",
       "source-layer": "amenity_areas",
@@ -160,7 +160,7 @@
       "paint": {"fill-color": "rgba(255, 255, 229, 1)"}
     },
     {
-      "id": "cemetery_areas",
+      "id": "cemetery area",
       "type": "fill",
       "source": "ohm",
       "source-layer": "landuse_areas",
@@ -168,7 +168,7 @@
       "paint": {"fill-color": "rgba(170, 203, 175, 1)"}
     },
     {
-      "id": "park_areas",
+      "id": "park area",
       "type": "fill",
       "source": "ohm",
       "source-layer": "landuse_areas",
@@ -176,7 +176,7 @@
       "paint": {"fill-color": "rgba(200, 250, 204, 1)"}
     },
     {
-      "id": "garden_areas",
+      "id": "garden area",
       "type": "fill",
       "source": "ohm",
       "source-layer": "landuse_areas",
@@ -184,7 +184,7 @@
       "paint": {"fill-color": "rgba(205, 235, 176, 1)"}
     },
     {
-      "id": "stadium_sports_centre_areas",
+      "id": "stadium area",
       "type": "fill",
       "source": "ohm",
       "source-layer": "landuse_areas",
@@ -193,7 +193,7 @@
       "paint": {"fill-color": "rgba(223, 252, 226, 1)"}
     },
     {
-      "id": "bridleway_areas",
+      "id": "bridleway area",
       "type": "fill",
       "source": "ohm",
       "source-layer": "transport_areas",
@@ -201,7 +201,7 @@
       "paint": {"fill-color": "rgba(170, 224, 203, 1)"}
     },
     {
-      "id": "pitch_areas",
+      "id": "pitch area",
       "type": "fill",
       "source": "ohm",
       "source-layer": "landuse_areas",
@@ -225,7 +225,7 @@
       "paint": {"line-width": 0.5, "line-color": "rgba(202, 202, 202, 1)"}
     },
     {
-      "id": "pedestrian_areas",
+      "id": "pedestrian area",
       "type": "fill",
       "source": "ohm",
       "source-layer": "transport_areas",
@@ -233,7 +233,7 @@
       "paint": {"fill-color": "rgba(221, 221, 232, 1)"}
     },
     {
-      "id": "water_areas",
+      "id": "water area",
       "type": "fill",
       "source": "ohm",
       "source-layer": "water_areas",
@@ -280,7 +280,7 @@
       "paint": {"fill-color": "rgba(205, 235, 176, 1)"}
     },
     {
-      "id": "scrub_areas",
+      "id": "scrub area",
       "type": "fill",
       "source": "ohm",
       "source-layer": "landuse_areas",
@@ -297,7 +297,7 @@
       "paint": {"fill-color": "rgba(128, 128, 128, 1)"}
     },
     {
-      "id": "bridge_areas",
+      "id": "bridge area",
       "type": "fill",
       "source": "ohm",
       "source-layer": "other_areas",
@@ -313,7 +313,7 @@
       "paint": {"fill-color": "rgba(205, 235, 176, 1)"}
     },
     {
-      "id": "ditch_drain",
+      "id": "ditch",
       "type": "line",
       "source": "ohm",
       "source-layer": "water_lines",
@@ -467,7 +467,7 @@
       "paint": {"line-color": "rgba(148, 148, 148, 1)", "line-width": 1}
     },
     {
-      "id": "embankment_dash",
+      "id": "embankment dash",
       "type": "line",
       "source": "ohm",
       "source-layer": "other_lines",
@@ -486,30 +486,6 @@
       "source-layer": "other_lines",
       "filter": ["all", ["in", "type", "embankment"]],
       "paint": {"line-color": "rgba(148, 148, 148, 1)", "line-width": 1}
-    },
-    {
-      "id": "wall_areas",
-      "type": "fill",
-      "source": "ohm",
-      "source-layer": "other_areas",
-      "filter": ["all", ["in", "type", "wall"]],
-      "paint": {"fill-color": "rgba(199, 199, 199, 1)"}
-    },
-    {
-      "id": "walls_outlines",
-      "type": "line",
-      "source": "ohm",
-      "source-layer": "other_areas",
-      "filter": ["all", ["in", "type", "wall"]],
-      "paint": {"line-width": 0.5, "line-color": "rgba(148, 148, 148, 1)"}
-    },
-    {
-      "id": "walls_lines",
-      "type": "line",
-      "source": "ohm",
-      "source-layer": "other_lines",
-      "filter": ["all", ["in", "type", "wall"]],
-      "paint": {"line-width": 0.5, "line-color": "rgba(148, 148, 148, 1)"}
     },
     {
       "id": "kerbs",
@@ -545,7 +521,7 @@
       }
     },
     {
-      "id": "cliff (pattern)",
+      "id": "cliff pattern",
       "type": "line",
       "source": "ohm",
       "source-layer": "natural_lines",
@@ -573,7 +549,7 @@
       "paint": {"fill-color": "rgba(0, 146, 218, 1)"}
     },
     {
-      "id": "wind_turbine",
+      "id": "wind turbine",
       "type": "fill",
       "source": "ohm",
       "source-layer": "other_areas",
@@ -581,7 +557,7 @@
       "paint": {"fill-color": "rgba(184, 184, 184, 1)"}
     },
     {
-      "id": "wind_turbine walls",
+      "id": "wind turbine walls",
       "type": "line",
       "source": "ohm",
       "source-layer": "other_areas",
@@ -589,7 +565,7 @@
       "paint": {"line-width": 0.5, "line-color": "rgba(148, 148, 148, 1)"}
     },
     {
-      "id": "general_buildings",
+      "id": "general buildings",
       "type": "fill",
       "source": "ohm",
       "source-layer": "buildings",
@@ -619,7 +595,7 @@
       "paint": {"fill-color": "rgba(217, 208, 201, 1)"}
     },
     {
-      "id": "important_buildings",
+      "id": "important buildings",
       "type": "fill",
       "metadata": {
         "maputnik:comment": "basilica,belfry,cathedral,chapel,church,city_gate,cloth_hall,courthouse,exchange,marketplace,town_hall,townhall,train_station,water_gate,ruins"
@@ -649,6 +625,30 @@
         ["==", "class", "building"]
       ],
       "paint": {"fill-color": "rgba(196, 182, 171, 1)"}
+    },
+    {
+      "id": "wall area",
+      "type": "fill",
+      "source": "ohm",
+      "source-layer": "other_areas",
+      "filter": ["all", ["in", "type", "wall"]],
+      "paint": {"fill-color": "rgba(199, 199, 199, 1)"}
+    },
+    {
+      "id": "wall outline",
+      "type": "line",
+      "source": "ohm",
+      "source-layer": "other_areas",
+      "filter": ["all", ["in", "type", "wall"]],
+      "paint": {"line-width": 0.5, "line-color": "rgba(148, 148, 148, 1)"}
+    },
+    {
+      "id": "wall line",
+      "type": "line",
+      "source": "ohm",
+      "source-layer": "other_lines",
+      "filter": ["all", ["in", "type", "wall"]],
+      "paint": {"line-width": 0.5, "line-color": "rgba(148, 148, 148, 1)"}
     },
     {
       "id": "platform pattern",
@@ -724,7 +724,7 @@
       "paint": {"line-width": 0.5, "line-color": "rgba(148, 148, 148, 1)"}
     },
     {
-      "id": "retaining_wall",
+      "id": "retaining wall",
       "type": "line",
       "source": "ohm",
       "source-layer": "other_lines",
@@ -743,7 +743,7 @@
       }
     },
     {
-      "id": "retaining_wall dash",
+      "id": "retaining wall dash",
       "type": "line",
       "source": "ohm",
       "source-layer": "other_lines",
@@ -809,44 +809,22 @@
       "paint": {"line-width": 1, "line-color": "rgba(116, 115, 115, 1)"}
     },
     {
-      "id": "footway,path,steps case",
+      "id": "footway case",
       "type": "line",
       "source": "ohm",
       "source-layer": "transport_lines",
-      "minzoom": 15,
-      "filter": ["all", ["in", "type", "footway", "path", "steps"]],
+      "filter": ["all", ["in", "type", "cycleway", "footway", "path", "steps"]],
       "layout": {"line-cap": "round", "line-join": "round"},
       "paint": {
-        "line-color": "rgba(255, 255, 255, 1)",
+        "line-color": "rgba(188, 188, 171, 1)",
         "line-width": [
           "interpolate",
-          ["exponential", 1.5],
+          ["exponential", 1],
           ["zoom"],
           10,
-          0.0024,
-          18,
-          2.4
-        ]
-      }
-    },
-    {
-      "id": "cycleway case",
-      "type": "line",
-      "source": "ohm",
-      "source-layer": "transport_lines",
-      "minzoom": 15,
-      "filter": ["all", ["in", "type", "cycleway"]],
-      "layout": {"line-cap": "round", "line-join": "round"},
-      "paint": {
-        "line-color": "rgba(255, 255, 255, 1)",
-        "line-width": [
-          "interpolate",
-          ["exponential", 1.5],
-          ["zoom"],
-          10,
-          0.0024,
-          18,
-          2.4
+          0.06,
+          20,
+          6
         ]
       }
     },
@@ -858,7 +836,7 @@
       "filter": ["all", ["in", "type", "service", "unclassified"]],
       "layout": {"line-cap": "round", "line-join": "round"},
       "paint": {
-        "line-color": "rgba(216, 216, 216, 1)",
+        "line-color": "rgba(188, 188, 171, 1)",
         "line-width": [
           "interpolate",
           ["exponential", 1],
@@ -878,7 +856,7 @@
       "filter": ["all", ["in", "type", "residential"]],
       "layout": {"line-cap": "round", "line-join": "round"},
       "paint": {
-        "line-color": "rgba(216, 216, 216, 1)",
+        "line-color": "rgba(188, 188, 171, 1)",
         "line-width": [
           "interpolate",
           ["exponential", 1],
@@ -902,7 +880,7 @@
         "line-join": "round"
       },
       "paint": {
-        "line-color": "rgba(216, 216, 216, 1)",
+        "line-color": "rgba(188, 188, 171, 1)",
         "line-width": [
           "interpolate",
           ["exponential", 1],
@@ -919,7 +897,10 @@
       "type": "line",
       "source": "ohm",
       "source-layer": "transport_lines",
-      "filter": ["all", ["in", "type", "secondary", "secondary_link"]],
+      "filter": [
+        "all",
+        ["in", "type", "primary", "primary_link", "secondary", "secondary_link"]
+      ],
       "layout": {
         "visibility": "visible",
         "line-cap": "round",
@@ -927,30 +908,6 @@
       },
       "paint": {
         "line-color": "rgba(164, 179, 41, 1)",
-        "line-width": [
-          "interpolate",
-          ["exponential", 1],
-          ["zoom"],
-          10,
-          0.336,
-          20,
-          33.6
-        ]
-      }
-    },
-    {
-      "id": "primary case",
-      "type": "line",
-      "source": "ohm",
-      "source-layer": "transport_lines",
-      "filter": ["all", ["in", "type", "primary", "primary_link"]],
-      "layout": {
-        "visibility": "visible",
-        "line-cap": "round",
-        "line-join": "round"
-      },
-      "paint": {
-        "line-color": "rgba(199, 141, 43, 1)",
         "line-width": [
           "interpolate",
           ["exponential", 1],
@@ -1218,32 +1175,32 @@
       }
     },
     {
-      "id": "footway,steps",
+      "id": "footway",
       "type": "line",
       "source": "ohm",
       "source-layer": "transport_lines",
       "minzoom": 15,
-      "filter": ["all", ["in", "type", "footway", "steps"]],
+      "filter": ["all", ["in", "type", "cycleway", "footway", "steps"]],
       "layout": {
         "visibility": "visible",
         "line-cap": "round",
         "line-join": "round"
       },
       "paint": {
-        "line-color": "rgba(249, 136, 123, 1)",
+        "line-color": "rgba(252, 255, 232, 1)",
         "line-width": [
           "interpolate",
           ["exponential", 1],
           ["zoom"],
           10,
-          0.002,
+          0.004,
           18,
-          2
+          4
         ]
       }
     },
     {
-      "id": "steps",
+      "id": "steps dash",
       "type": "line",
       "source": "ohm",
       "source-layer": "transport_lines",
@@ -1255,7 +1212,7 @@
         "line-join": "miter"
       },
       "paint": {
-        "line-color": "rgba(249, 136, 123, 1)",
+        "line-color": "rgba(252, 255, 232, 1)",
         "line-width": [
           "interpolate",
           ["exponential", 1],
@@ -1266,30 +1223,6 @@
           8
         ],
         "line-dasharray": [0.2, 0.4]
-      }
-    },
-    {
-      "id": "cycleway",
-      "type": "line",
-      "source": "ohm",
-      "source-layer": "transport_lines",
-      "filter": ["all", ["in", "type", "cycleway"]],
-      "layout": {
-        "visibility": "visible",
-        "line-cap": "round",
-        "line-join": "round"
-      },
-      "paint": {
-        "line-color": "rgba(0, 0, 255, 1)",
-        "line-width": [
-          "interpolate",
-          ["exponential", 1],
-          ["zoom"],
-          10,
-          0.002,
-          18,
-          2
-        ]
       }
     },
     {
@@ -1328,7 +1261,7 @@
         "line-join": "round"
       },
       "paint": {
-        "line-color": "rgba(255, 255, 255, 1)",
+        "line-color": "rgba(252, 255, 232, 1)",
         "line-width": [
           "interpolate",
           ["exponential", 1],
@@ -1352,7 +1285,7 @@
         "line-join": "round"
       },
       "paint": {
-        "line-color": "rgba(255, 255, 255, 1)",
+        "line-color": "rgba(252, 255, 232, 1)",
         "line-width": [
           "interpolate",
           ["exponential", 1],
@@ -1424,7 +1357,7 @@
         "line-join": "round"
       },
       "paint": {
-        "line-color": "rgba(255, 255, 255, 1)",
+        "line-color": "rgba(252, 255, 232, 1)",
         "line-width": [
           "interpolate",
           ["exponential", 1],
@@ -1441,7 +1374,10 @@
       "type": "line",
       "source": "ohm",
       "source-layer": "transport_lines",
-      "filter": ["all", ["in", "type", "secondary", "secondary_link"]],
+      "filter": [
+        "all",
+        ["in", "type", "primary", "primary_link", "secondary", "secondary_link"]
+      ],
       "layout": {
         "visibility": "visible",
         "line-cap": "round",
@@ -1449,30 +1385,6 @@
       },
       "paint": {
         "line-color": "rgba(231, 237, 157, 1)",
-        "line-width": [
-          "interpolate",
-          ["exponential", 1],
-          ["zoom"],
-          10,
-          0.28,
-          20,
-          28
-        ]
-      }
-    },
-    {
-      "id": "primary,primary_link highways",
-      "type": "line",
-      "source": "ohm",
-      "source-layer": "transport_lines",
-      "filter": ["all", ["in", "type", "primary", "primary_link"]],
-      "layout": {
-        "visibility": "visible",
-        "line-cap": "round",
-        "line-join": "round"
-      },
-      "paint": {
-        "line-color": "rgba(244, 195, 125, 1)",
         "line-width": [
           "interpolate",
           ["exponential", 1],
@@ -2535,7 +2447,7 @@
       }
     },
     {
-      "id": "place_of_worship",
+      "id": "place of worship",
       "type": "symbol",
       "source": "ohm",
       "source-layer": "amenity_points_centroids",
@@ -2544,6 +2456,19 @@
         "all",
         ["in", "type", "place_of_worship"],
         ["!in", "religion", "christian"]
+      ],
+      "layout": {"icon-image": "needicon", "icon-allow-overlap": true}
+    },
+    {
+      "id": "buddhist",
+      "type": "symbol",
+      "source": "ohm",
+      "source-layer": "amenity_points_centroids",
+      "minzoom": 13,
+      "filter": [
+        "all",
+        ["in", "type", "place_of_worship"],
+        ["!in", "religion", "buddhist"]
       ],
       "layout": {"icon-image": "needicon", "icon-allow-overlap": true}
     },
@@ -2559,6 +2484,94 @@
         ["in", "religion", "christian"]
       ],
       "layout": {"icon-image": "christian", "icon-allow-overlap": true}
+    },
+    {
+      "id": "hindu",
+      "type": "symbol",
+      "source": "ohm",
+      "source-layer": "amenity_points_centroids",
+      "minzoom": 13,
+      "filter": [
+        "all",
+        ["in", "type", "place_of_worship"],
+        ["!in", "religion", "hindu"]
+      ],
+      "layout": {"icon-image": "needicon", "icon-allow-overlap": true}
+    },
+    {
+      "id": "jewish",
+      "type": "symbol",
+      "source": "ohm",
+      "source-layer": "amenity_points_centroids",
+      "minzoom": 13,
+      "filter": [
+        "all",
+        ["in", "type", "place_of_worship"],
+        ["!in", "religion", "jewish"]
+      ],
+      "layout": {"icon-image": "needicon", "icon-allow-overlap": true}
+    },
+    {
+      "id": "muslim",
+      "type": "symbol",
+      "source": "ohm",
+      "source-layer": "amenity_points_centroids",
+      "minzoom": 13,
+      "filter": [
+        "all",
+        ["in", "type", "place_of_worship"],
+        ["!in", "religion", "muslim"]
+      ],
+      "layout": {"icon-image": "needicon", "icon-allow-overlap": true}
+    },
+    {
+      "id": "taoist",
+      "type": "symbol",
+      "source": "ohm",
+      "source-layer": "amenity_points_centroids",
+      "minzoom": 13,
+      "filter": [
+        "all",
+        ["in", "type", "place_of_worship"],
+        ["!in", "religion", "taoist"]
+      ],
+      "layout": {"icon-image": "needicon", "icon-allow-overlap": true}
+    },
+    {
+      "id": "shinto",
+      "type": "symbol",
+      "source": "ohm",
+      "source-layer": "amenity_points_centroids",
+      "minzoom": 13,
+      "filter": [
+        "all",
+        ["in", "type", "place_of_worship"],
+        ["!in", "religion", "shinto"]
+      ],
+      "layout": {"icon-image": "needicon", "icon-allow-overlap": true}
+    },
+    {
+      "id": "other religion",
+      "type": "symbol",
+      "source": "ohm",
+      "source-layer": "amenity_points_centroids",
+      "minzoom": 13,
+      "filter": [
+        "all",
+        ["in", "type", "place_of_worship"],
+        [
+          "!in",
+          "religion",
+          "buddhist",
+          "christian",
+          "hindu",
+          "jewish",
+          "muslim",
+          "taoist",
+          "shinto"
+        ]
+      ],
+      "layout": {"icon-image": "needicon", "icon-allow-overlap": true}
     },
     {
       "id": "bank",
@@ -2586,7 +2599,7 @@
       "id": "exchange",
       "type": "symbol",
       "source": "ohm",
-      "source-layer": "buildings_points_centroids",
+      "source-layer": "amenity_points_centroids",
       "minzoom": 13,
       "filter": ["all", ["in", "type", "exchange"]],
       "layout": {"icon-allow-overlap": true, "icon-image": "exchange"}
@@ -2645,16 +2658,38 @@
       "layout": {"icon-image": "prison", "icon-allow-overlap": true}
     },
     {
-      "id": "fortified tower",
+      "id": "fortified tower icon (building:part)",
       "type": "symbol",
       "source": "ohm",
       "source-layer": "buildings",
       "minzoom": 14,
-      "filter": ["all", ["in", "type", "fortified_tower"]],
+      "filter": [
+        "all",
+        ["in", "type", "fortified_tower"],
+        ["in", "class", "building:part"]
+      ],
       "layout": {
         "icon-image": "fortified_tower",
         "icon-allow-overlap": true,
-        "icon-size": 0.8
+        "icon-size": 0.6
+      }
+    },
+    {
+      "id": "fortified tower icon",
+      "type": "symbol",
+      "source": "ohm",
+      "source-layer": "buildings_points_centroids",
+      "minzoom": 14,
+      "filter": [
+        "all",
+        ["in", "type", "fortified_tower"],
+        ["!in", "class", "building:part"]
+      ],
+      "layout": {
+        "icon-image": "fortified_tower",
+        "icon-allow-overlap": true,
+        "visibility": "visible",
+        "icon-size": 1
       }
     },
     {
@@ -2711,6 +2746,15 @@
       "minzoom": 14,
       "filter": ["all", ["in", "type", "water_gate"]],
       "layout": {"icon-allow-overlap": true, "icon-image": "water_gate"}
+    },
+    {
+      "id": "barbican",
+      "type": "symbol",
+      "source": "ohm",
+      "source-layer": "buildings",
+      "minzoom": 14,
+      "filter": ["all", ["in", "type", "barbican"]],
+      "layout": {"icon-image": "city_gate", "icon-allow-overlap": true}
     },
     {
       "id": "city gate icon",
@@ -2811,7 +2855,7 @@
       "type": "symbol",
       "source": "ohm",
       "source-layer": "amenity_points_centroids",
-      "minzoom": 15,
+      "minzoom": 13,
       "filter": ["all", ["in", "type", "hospital"]],
       "layout": {
         "icon-image": "hospital",
@@ -3174,7 +3218,8 @@
         ],
         ["!in", "type", "exchange", "marketplace", "market_hall"],
         ["!in", "type", "opera", "theatre"],
-        ["!in", "type", "water_tower"]
+        ["!in", "type", "water_tower"],
+        ["!in", "type", "cloth_hall"]
       ],
       "layout": {
         "text-field": "{name}",
@@ -3307,7 +3352,7 @@
       "id": "amenity name",
       "type": "symbol",
       "metadata": {
-        "maputnik:comment": "bank,cafe,exchange,marketplace,restaurant,theatre"
+        "maputnik:comment": "bank,cafe,cinema,cloth_hall,exchange,marketplace,restaurant,theatre"
       },
       "source": "ohm",
       "source-layer": "amenity_points_centroids",
@@ -3319,6 +3364,8 @@
           "type",
           "bank",
           "cafe",
+          "cinema",
+          "cloth_hall",
           "exchange",
           "marketplace",
           "restaurant",
@@ -3751,6 +3798,31 @@
       "filter": ["all", ["in", "type", "town", "city"]],
       "layout": {
         "text-field": "{name}",
+        "text-font": ["OpenHistorical"],
+        "text-size": ["interpolate", ["linear", 1], ["zoom"], 10, 15, 20, 30],
+        "symbol-placement": "point",
+        "visibility": "visible",
+        "text-max-width": 5,
+        "text-offset": [0, 0],
+        "text-anchor": "top"
+      },
+      "paint": {
+        "text-color": "rgba(197, 34, 161, 1)",
+        "text-halo-color": "rgba(255, 255, 255, 1)",
+        "text-halo-width": 1
+      }
+    },
+    {
+      "id": "admin 2",
+      "type": "symbol",
+      "metadata": {"maputnik:comment": "town,city"},
+      "source": "ohm",
+      "source-layer": "land_ohm_centroids",
+      "minzoom": 3,
+      "maxzoom": 10,
+      "filter": ["all", ["in", "admin_level", 2]],
+      "layout": {
+        "text-field": "{name}",
         "text-font": ["Open Sans Bold"],
         "text-size": ["interpolate", ["linear", 1], ["zoom"], 10, 15, 20, 30],
         "symbol-placement": "point",
@@ -3771,7 +3843,7 @@
       "metadata": {"maputnik:comment": "town,city"},
       "source": "ohm",
       "source-layer": "land_ohm_centroids",
-      "minzoom": 0,
+      "minzoom": 6,
       "maxzoom": 9,
       "filter": ["all", ["in", "admin_level", 4, 6]],
       "layout": {
@@ -3787,7 +3859,7 @@
       "paint": {
         "text-color": "rgba(197, 34, 161, 1)",
         "text-halo-color": "rgba(255, 255, 255, 1)",
-        "text-halo-width": 1.5
+        "text-halo-width": 1
       }
     }
   ],
