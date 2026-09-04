@@ -347,13 +347,13 @@
     "width": 20,
     "x": 220,
     "y": 60},
-  "sikhist": {
+  "sikh": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
     "x": 240,
     "y": 60},
-  "shintoist": {
+  "shinto": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
@@ -395,7 +395,7 @@
     "width": 20,
     "x": 100,
     "y": 80},
-  "hinduist": {
+  "hindu": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
