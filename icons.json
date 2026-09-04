@@ -173,7 +173,7 @@
     "width": 20,
     "x": 0,
     "y": 40},
-  "belfry": {
+  "EMPTY_REPLACE_ME": {
     "height": 40,
     "pixelRatio": 1,
     "width": 20,
@@ -443,7 +443,7 @@
     "width": 20,
     "x": 260,
     "y": 80},
-  "belfry2": {
+  "belfry": {
     "height": 40,
     "pixelRatio": 1,
     "width": 40,
@@ -461,7 +461,7 @@
     "width": 20,
     "x": 20,
     "y": 100},
-  "belfry3": {
+  "EMPTY_REPLACE_ME": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
