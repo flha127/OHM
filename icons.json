@@ -317,7 +317,7 @@
     "width": 20,
     "x": 120,
     "y": 60},
-  "EMPTY": {
+  "fortification_generic": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
