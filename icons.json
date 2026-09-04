@@ -245,7 +245,7 @@
     "width": 20,
     "x": 240,
     "y": 40},
-  "EMPTY": {
+  "dame": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
@@ -269,6 +269,30 @@
     "width": 20,
     "x": 40,
     "y": 60},
+   "barbicane": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 40,
+    "x": 40,
+    "y": 60},
+  "city_gate_Early_modern_period": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 30,
+    "x": 40,
+    "y": 80},
+  "city_hall": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 30,
+    "x": 40,
+    "y": 110},
+  "town_hall": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 30,
+    "x": 40,
+    "y": 110},
   "EMPTY": {
     "height": 20,
     "pixelRatio": 1,
@@ -299,7 +323,7 @@
     "width": 20,
     "x": 140,
     "y": 60},
-  "EMPTY": {
+  "fortified_gateway_early_modern_period": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
@@ -311,112 +335,196 @@
     "width": 20,
     "x": 180,
     "y": 60},
-  "EMPTY": {
+  "flagpole": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
     "x": 200,
     "y": 60},
-  "EMPTY": {
+  "catenary_mast": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
     "x": 220,
     "y": 60},
-  "EMPTY": {
+  "sikhist": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
     "x": 240,
     "y": 60},
-  "EMPTY": {
+  "shintoist": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
     "x": 260,
     "y": 60},
-    "EMPTY": {
+    "jewish": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
     "x": 0,
     "y": 80},
-  "EMPTY": {
+  "place_of_worship": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
     "x": 20,
     "y": 80},
-  "EMPTY": {
+  "statue": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
     "x": 40,
     "y": 80},
-  "EMPTY": {
+  "foutain": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
     "x": 60,
     "y": 80},
-  "EMPTY": {
+  "monument": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
     "x": 80,
     "y": 80},
-  "EMPTY": {
+  "parking": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
     "x": 100,
     "y": 80},
-  "EMPTY": {
+  "hinduist": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
     "x": 120,
     "y": 80},
-  "EMPTY": {
+  "muslim": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
     "x": 140,
     "y": 80},
-  "EMPTY": {
+  "buddhist": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
     "x": 160,
     "y": 80},
-  "EMPTY": {
+  "aerodrome": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
     "x": 180,
     "y": 80},
-  "EMPTY": {
+  "helipad": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
     "x": 200,
     "y": 80},
-  "EMPTY": {
+  "memorial": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
     "x": 220,
     "y": 80},
-  "EMPTY": {
+  "taoist": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
     "x": 240,
     "y": 80},
+  "airfield": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 260,
+    "y": 80},
+  "EMPTY": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 0,
+    "y": 100},
+  "EMPTY": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 20,
+    "y": 100},
+  "EMPTY": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 40,
+    "y": 100},
+  "EMPTY": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 60,
+    "y": 100},
+  "EMPTY": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 80,
+    "y": 100},
+  "EMPTY": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 100,
+    "y": 100},
+  "EMPTY": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 120,
+    "y": 100},
+  "EMPTY": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 140,
+    "y": 100},
+  "EMPTY": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 160,
+    "y": 100},
+  "EMPTY": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 180,
+    "y": 100},
+  "EMPTY": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 200,
+    "y": 100},
+  "EMPTY": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 220,
+    "y": 100},
+  "EMPTY": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 240,
+    "y": 100},
   "EMPTY": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
     "x": 260,
-    "y": 80}
+    "y": 100}
 }
