@@ -449,13 +449,13 @@
     "width": 40,
     "x": 40,
     "y": 100},
-  "EMPTY": {
+  "street_lamp": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
     "x": 0,
     "y": 100},
-  "EMPTY": {
+  "village_hall": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
