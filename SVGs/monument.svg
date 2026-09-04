@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   width="20"
+   height="20"
+   viewBox="0 0 20 20"
+   id="svg2"
+   sodipodi:docname="Monument-16.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview1004"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="17.147339"
+     inkscape:cx="10.497255"
+     inkscape:cy="6.5316255"
+     inkscape:window-width="1920"
+     inkscape:window-height="974"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6" />
+  <rect
+     width="16"
+     height="16"
+     x="18.631077"
+     y="0.72742426"
+     id="canvas"
+     style="visibility:hidden;fill:none;stroke:none" />
+  <g
+     id="g6038"
+     transform="translate(18.631076,0.72742426)">
+    <path
+       d="m -8.6310768,-0.72742426 c 0,0 -2.8571422,2.13805116 -2.8571422,2.85714276 V 13.55829 h 5.7142852 V 2.1297185 c 0,-0.6848491 -2.857143,-2.85714276 -2.857143,-2.85714276 z M -12.916791,14.986861 c -1.428571,0 -1.428571,1.428572 -1.428571,2.857143 h -1.428571 l -1.428572,1.428572 H -0.05964784 L -1.4882198,17.844004 h -1.428571 c 0,-1.428571 0,-2.857143 -1.428571,-2.857143 z"
+       id="monument"
+       style="fill:#734a08;fill-opacity:1;stroke-width:1" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke-width:0.505266"
+       id="rect238-8-4-1-7-4"
+       width="20"
+       height="20"
+       x="-1.3689237"
+       y="-0.72742426"
+       transform="scale(-1,1)" />
+  </g>
+</svg>

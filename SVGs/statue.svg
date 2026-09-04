@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 20 20"
+   height="20"
+   width="20"
+   id="svg109"
+   version="1.1"
+   sodipodi:docname="Statue-14.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview1748"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="19.596959"
+     inkscape:cx="19.696933"
+     inkscape:cy="20.003103"
+     inkscape:window-width="1920"
+     inkscape:window-height="974"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg109" />
+  <metadata
+     id="metadata115">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs113" />
+  <g
+     id="g6005"
+     transform="translate(27.604773,3.6214592)">
+    <path
+       id="rect4517-0"
+       d="m -17.604772,-3.6214592 c -0.819324,0 -1.484375,0.6650516 -1.484375,1.484375 0,0.8193235 0.665051,1.48158475 1.484375,1.48158475 0.819323,0 1.484375,-0.66226125 1.484375,-1.48158475 0,-0.8193234 -0.665052,-1.484375 -1.484375,-1.484375 z m -1.484375,3.95647305 c -0.52154,0 -0.987724,0.4739027 -0.987724,0.98772325 0,0.9890112 1.729911,3.9738718 1.729911,4.9469865 v 2.9659602 h 1.484375 V 6.2697236 c 0,-0.9538586 1.72991,-3.9579753 1.72991,-4.9469865 0,-0.54730225 -0.442477,-0.98772325 -0.987722,-0.98772325 z m -2.80134,10.32924115 v 1.428571 h 8.571428 v -1.428571 z m 1.428572,2.857143 v 2.857143 h 5.714285 v -2.857143 z"
+       style="opacity:1;fill:#734a08;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.11386;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke-width:0.505266"
+       id="rect238-8-4-1-7-4"
+       width="20"
+       height="20"
+       x="7.6047726"
+       y="-3.6214592"
+       transform="scale(-1,1)" />
+  </g>
+</svg>

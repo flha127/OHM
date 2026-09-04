@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   width="20"
+   height="20"
+   viewBox="0 0 20 20"
+   id="svg2"
+   sodipodi:docname="Buddhist-16.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview259"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="12.125"
+     inkscape:cx="14.680412"
+     inkscape:cy="10.226804"
+     inkscape:window-width="1920"
+     inkscape:window-height="974"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6" />
+  <rect
+     width="16"
+     height="16"
+     x="25.687565"
+     y="2.3020127"
+     id="canvas"
+     style="visibility:hidden;fill:none;stroke:none" />
+  <g
+     id="g3848"
+     transform="translate(25.687565,2.3020127)">
+    <path
+       d="m -15.716946,-2.3019977 c -0.352315,-0.00305 -0.693587,0.4652083 -0.715673,1.38661745 -4.146635,0.3643511 -7.505533,3.72491145 -7.872408,7.87240905 -1.818377,0 -1.84282,1.387176 0,1.431346 0.326803,4.1746162 3.699784,7.4705682 7.872408,7.8276812 0,2.01054 1.431348,1.940971 1.431348,0 4.20157,-0.318183 7.509476,-3.624053 7.827678,-7.8276812 1.996199,0 1.940815,-1.431346 0,-1.431346 -0.357269,-4.1763208 -3.652395,-7.54773785 -7.827678,-7.87240905 0,-0.90918815 -0.363359,-1.38356225 -0.715675,-1.38661745 z m -0.715673,3.26526035 V 5.9729773 l -3.533638,-3.533638 c 0.985471,-0.8017517 2.199309,-1.3290641 3.533638,-1.47607665 z m 1.431348,0 c 1.333113,0.14136695 2.539225,0.68050565 3.533637,1.47607665 l -3.533637,3.533638 z m 4.562418,2.46012785 c 0.79976,0.9842612 1.328585,2.1994951 1.476077,3.5336383 h -5.009715 z m -10.511455,0.044729 3.488909,3.4889088 h -4.964985 c 0.154131,-1.3092248 0.691177,-2.5138898 1.476076,-3.4889088 z m 5.233362,3.1310717 c 0.592883,0 1.073511,0.4806261 1.073511,1.0735101 0,0.592884 -0.480628,1.073511 -1.073511,1.073511 -0.592883,0 -1.073509,-0.480627 -1.073509,-1.073511 0,-0.592884 0.480626,-1.0735101 1.073509,-1.0735101 z m -6.709438,1.7891831 h 5.054444 l -3.578368,3.5783687 c -0.807035,-0.997995 -1.3373,-2.2312887 -1.476076,-3.5783687 z m 8.364433,0 h 5.099175 c -0.143367,1.362616 -0.70661,2.5786287 -1.520807,3.5783687 z m -2.370668,1.028783 v 5.0097147 c -1.334142,-0.147492 -2.549376,-0.676318 -3.533638,-1.476077 z m 1.431348,0 3.533637,3.5783667 c -0.984321,0.779146 -2.202605,1.295715 -3.533637,1.431348 z"
+       id="buddhist"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke-width:0.505266"
+       id="rect238-8-4-1-7-4"
+       width="20"
+       height="20"
+       x="5.6875653"
+       y="-2.3020127"
+       transform="scale(-1,1)" />
+  </g>
+</svg>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   width="20"
+   height="20"
+   viewBox="0 0 20 20"
+   id="svg2"
+   sodipodi:docname="Muslim-16.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview1128"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="17.147339"
+     inkscape:cx="26.884637"
+     inkscape:cy="11.605299"
+     inkscape:window-width="1920"
+     inkscape:window-height="974"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6" />
+  <rect
+     width="16"
+     height="16"
+     x="30.761238"
+     y="5.8010979"
+     id="canvas"
+     style="visibility:hidden;fill:none;stroke:none" />
+  <g
+     id="g5946"
+     transform="translate(30.761238,5.8010979)">
+    <path
+       d="m -22.18981,-4.3725264 c -4.84345,0 -8.571428,3.72799993 -8.571428,8.571428 0,4.843429 3.727978,8.5714294 8.571428,8.5714294 2.708086,0 5.534159,-0.928143 7.142857,-2.8571434 -1.051142,0.6842864 -2.937995,1.4285714 -4.285714,1.4285714 -3.703814,0 -7.142857,-3.4390004 -7.142857,-7.1428574 0,-3.70385667 3.439043,-7.1428566 7.142857,-7.1428566 1.347719,0 3.234572,0.7444285 4.285714,1.4285714 -1.608698,-1.9288571 -4.434771,-2.8571428 -7.142857,-2.8571428 z m 6.428572,4.28571423 -1.428572,2.85714277 h -3.571428 l 2.857143,2.142857 -1.428572,3.571429 3.571429,-2.142858 3.571428,2.142858 -1.428571,-3.571429 2.857143,-2.142857 h -3.571429 z"
+       id="muslim"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke-width:0.505266"
+       id="rect238-8-4-1-7-4"
+       width="20"
+       height="20"
+       x="10.761238"
+       y="-5.8010979"
+       transform="scale(-1,1)" />
+  </g>
+</svg>
