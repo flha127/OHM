@@ -447,7 +447,7 @@
     "height": 40,
     "pixelRatio": 1,
     "width": 40,
-    "x": 40,
+    "x": 0,
     "y": 100},
   "EMPTY": {
     "height": 20,
@@ -473,7 +473,7 @@
     "width": 20,
     "x": 60,
     "y": 100},
-  "EMPTY": {
+  "village_hall": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
