@@ -23,7 +23,7 @@
     "width": 20,
     "x": 60,
     "y": 0},
-  "police_station": {
+  "customsf": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
@@ -173,7 +173,7 @@
     "width": 20,
     "x": 0,
     "y": 40},
-  "EMPTY_REPLACE_ME": {
+  "embrasure": {
     "height": 40,
     "pixelRatio": 1,
     "width": 20,
@@ -257,7 +257,7 @@
     "width": 20,
     "x": 0,
     "y": 60},
-  "EMPTY": {
+  "tree": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
@@ -479,29 +479,35 @@
     "width": 20,
     "x": 80,
     "y": 100},
-  "EMPTY": {
+  "police_station": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
     "x": 100,
     "y": 100},
-  "EMPTY": {
+  "police_station_prison": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 40,
+    "x": 100,
+    "y": 100},
+  "prison": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
     "x": 120,
     "y": 100},
-  "EMPTY": {
+  "gunpowder_magazine": {
     "height": 20,
     "pixelRatio": 1,
-    "width": 20,
+    "width": 30,
     "x": 140,
     "y": 100},
-  "EMPTY": {
-    "height": 20,
+  "roundel": {
+    "height": 30,
     "pixelRatio": 1,
     "width": 20,
-    "x": 160,
+    "x": 170,
     "y": 100},
   "EMPTY": {
     "height": 20,
