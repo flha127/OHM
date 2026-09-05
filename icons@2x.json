@@ -339,8 +339,8 @@
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
-    "x": 60,
-    "y": 200},
+    "x": 200,
+    "y": 60},
   "catenary_mast": {
     "height": 20,
     "pixelRatio": 1,
