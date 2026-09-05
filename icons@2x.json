@@ -504,9 +504,9 @@
     "x": 140,
     "y": 100},
   "roundel": {
-    "height": 30,
+    "height": 20,
     "pixelRatio": 1,
-    "width": 20,
+    "width": 30,
     "x": 170,
     "y": 100},
   "EMPTY": {
