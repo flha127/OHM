@@ -461,7 +461,7 @@
     "width": 20,
     "x": 20,
     "y": 100},
-  "EMPTY_REPLACE_ME": {
+  "casino": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
@@ -509,25 +509,25 @@
     "width": 30,
     "x": 170,
     "y": 100},
-  "EMPTY": {
+  "bakery": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
     "x": 180,
     "y": 100},
-  "EMPTY": {
+  "bar": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
     "x": 200,
     "y": 100},
-  "EMPTY": {
+  "biergarten": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
     "x": 220,
     "y": 100},
-  "EMPTY": {
+  "bollard": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
