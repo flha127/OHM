@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="20"
+   height="20"
+   version="1.1"
+   viewBox="0 0 20 20"
+   id="svg12"
+   sodipodi:docname="cooling_tower.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs16" />
+  <sodipodi:namedview
+     id="namedview14"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="9.7984797"
+     inkscape:cx="-20.564415"
+     inkscape:cy="0.40822659"
+     inkscape:window-width="1920"
+     inkscape:window-height="974"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg12" />
+  <metadata
+     id="metadata2">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="g6619"
+     transform="translate(-17.759407,2.7539778)">
+    <g
+       id="g10"
+       transform="matrix(1.5384615,0,0,1.5384615,16.990177,-4.2924388)"
+       style="stroke-width:0.65">
+      <rect
+         x="4"
+         y="1"
+         width="6"
+         height="13"
+         style="fill:#555555;fill-opacity:1;stroke:none;stroke-width:0.65"
+         id="rect4" />
+      <path
+         d="M 2,14 4,8 h 6 l 2,6 z"
+         fill-rule="evenodd"
+         style="fill:#555555;fill-opacity:1;stroke:none;stroke-width:0.4225"
+         id="path6" />
+      <path
+         d="m 3,1 1,2 h 6 l 1,-2 z"
+         fill-rule="evenodd"
+         style="fill:#555555;fill-opacity:1;stroke:none;stroke-width:0.4225"
+         id="path8" />
+    </g>
+    <rect
+       style="fill:none;fill-opacity:1;stroke-width:0.505266"
+       id="rect238-8-4-1-7-4"
+       width="20"
+       height="20"
+       x="-37.759407"
+       y="-2.7539778"
+       transform="scale(-1,1)" />
+  </g>
+</svg>
