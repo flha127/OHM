@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="svg4138"
+   viewBox="0 0 20 20"
+   height="20"
+   width="20"
+   version="1.1"
+   sodipodi:docname="communications_mast.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview2992"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="19.596959"
+     inkscape:cx="15.99738"
+     inkscape:cy="17.196545"
+     inkscape:window-width="1920"
+     inkscape:window-height="974"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4138" />
+  <metadata
+     id="metadata4146">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svgxml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs4144" />
+  <g
+     id="g3776"
+     transform="translate(25.461582,5.0502524)">
+    <path
+       id="mast-communication"
+       d="m -19.875375,-5.0502524 c -2.600078,1.1465812 -4.459771,3.7456219 -4.459771,6.7586208 0,3.0129992 1.859693,5.6120392 4.459771,6.7586212 v -1.70115 c -1.758941,-1.016336 -2.942529,-2.8680087 -2.942529,-5.0574712 0,-2.18946244 1.183588,-4.0411345 2.942529,-5.0574713 z m 8.827586,0 v 1.7011495 c 1.7589403,1.0163368 2.9425283,2.86800886 2.9425283,5.0574713 0,2.1894625 -1.183588,4.0411352 -2.9425283,5.0574712 v 1.70115 c 2.6000773,-1.146582 4.4597703,-3.745622 4.4597703,-6.7586212 0,-3.0129989 -1.859693,-5.6120396 -4.4597703,-6.7586208 z m -7.356322,2.6206897 c -1.702321,0.6133175 -2.942529,2.23018756 -2.942529,4.1379311 0,1.9077436 1.240208,3.5246142 2.942529,4.1379312 V 4.2371041 c -0.878226,-0.5071754 -1.471264,-1.434748 -1.471264,-2.5287357 0,-1.09398764 0.593038,-2.02156024 1.471264,-2.52873564 z m 5.885057,0 v 1.60919546 c 0.878226,0.5071754 1.471265,1.434748 1.471265,2.52873564 0,1.0939877 -0.593039,2.0215603 -1.471265,2.5287357 v 1.6091955 c 1.702321,-0.613317 2.9425293,-2.2301876 2.9425293,-4.1379312 0,-1.90774354 -1.2402083,-3.5246136 -2.9425293,-4.1379311 z m -2.942528,2.66666666 c -0.879511,0 -1.471265,0.6903426 -1.471265,1.47126444 v 5.8850572 l -4.247126,7.3563224 h 1.698276 l 2.54885,-4.413793 v 4.413793 h 2.942529 v -4.413793 l 2.548851,4.413793 h 1.6982763 L -13.990318,7.5934256 V 1.7083684 c 0,-0.72988494 -0.591754,-1.47126444 -1.471264,-1.47126444 z"
+       style="fill:#555555;fill-opacity:1;stroke:none;stroke-width:1" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke-width:0.505266"
+       id="rect238-8-4-1-7-4"
+       width="20"
+       height="20"
+       x="5.4615822"
+       y="-5.0502524"
+       transform="scale(-1,1)" />
+  </g>
+</svg>
