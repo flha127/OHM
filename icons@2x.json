@@ -23,7 +23,7 @@
     "width": 20,
     "x": 60,
     "y": 0},
-  "customsf": {
+  "customs": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
@@ -239,7 +239,7 @@
     "width": 20,
     "x": 220,
     "y": 40},
-  "battery_tower": {
+  "watchtower": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
@@ -461,7 +461,7 @@
     "width": 20,
     "x": 20,
     "y": 100},
-  "EMPTY_REPLACE_ME": {
+  "casino": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
@@ -509,34 +509,184 @@
     "width": 30,
     "x": 170,
     "y": 100},
-  "EMPTY": {
-    "height": 20,
-    "pixelRatio": 1,
-    "width": 20,
-    "x": 180,
-    "y": 100},
-  "EMPTY": {
+  "bakery": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
     "x": 200,
     "y": 100},
-  "EMPTY": {
+  "bar": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
     "x": 220,
     "y": 100},
-  "EMPTY": {
+  "biergarten": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
     "x": 240,
     "y": 100},
+  "bollard": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 260,
+    "y": 100},
+  "cave_entrance": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 40,
+    "y": 120},
+  "chimney": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 60,
+    "y": 120},
+  "ommunications_mast": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 80,
+    "y": 120},
+  "communications_tower": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 100,
+    "y": 120},
+  "convenience_store": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 120,
+    "y": 120},
+  "crane": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 140,
+    "y": 120},
+  "embassy": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 160,
+    "y": 120},
+  "fast_food": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 180,
+    "y": 120},
+  "ferry_terminal": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 200,
+    "y": 120},
+  "gate": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 220,
+    "y": 120},
+  "hairdresser": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 240,
+    "y": 120},
+  "hunting_stand": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 260,
+    "y": 120},
+  "ice_cream": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 0,
+    "y": 140},
+  "level_crossing": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 20,
+    "y": 140},
+  "lighthouse": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 40,
+    "y": 140},
+  "nigthclub": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 60,
+    "y": 140},
+  "pub": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 80,
+    "y": 140},
+  "saddle": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 100,
+    "y": 140},
+  "boundary_marker": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 120,
+    "y": 140},
+  "waterfall": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 140,
+    "y": 140},
+  "volcano": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 160,
+    "y": 140},
+  "traffic_light": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 180,
+    "y": 140},
+  "supermarket": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 200,
+    "y": 140},
+  "silo": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 220,
+    "y": 140},
+  "cooling_tower": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 240,
+    "y": 140},
   "EMPTY": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
     "x": 260,
-    "y": 100}
+    "y": 140}
 }
