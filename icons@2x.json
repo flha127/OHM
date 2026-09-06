@@ -251,23 +251,11 @@
     "width": 20,
     "x": 260,
     "y": 40},
-    "EMPTY": {
-    "height": 20,
-    "pixelRatio": 1,
-    "width": 20,
-    "x": 0,
-    "y": 60},
   "tree": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
     "x": 20,
-    "y": 60},
-  "EMPTY": {
-    "height": 20,
-    "pixelRatio": 1,
-    "width": 20,
-    "x": 40,
     "y": 60},
    "barbican": {
     "height": 20,
@@ -293,30 +281,6 @@
     "width": 30,
     "x": 110,
     "y": 60},
-  "EMPTY": {
-    "height": 20,
-    "pixelRatio": 1,
-    "width": 20,
-    "x": 60,
-    "y": 60},
-  "EMPTY": {
-    "height": 20,
-    "pixelRatio": 1,
-    "width": 20,
-    "x": 80,
-    "y": 60},
-  "EMPTY": {
-    "height": 20,
-    "pixelRatio": 1,
-    "width": 20,
-    "x": 100,
-    "y": 60},
-  "EMPTY": {
-    "height": 20,
-    "pixelRatio": 1,
-    "width": 20,
-    "x": 120,
-    "y": 60},
   "fortification_generic": {
     "height": 20,
     "pixelRatio": 1,
@@ -327,14 +291,8 @@
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
-    "x": 60,
-    "y": 160},
-  "EMPTY": {
-    "height": 20,
-    "pixelRatio": 1,
-    "width": 20,
-    "x": 60,
-    "y": 180},
+    "x": 160,
+    "y": 60},
   "flagpole": {
     "height": 20,
     "pixelRatio": 1,
