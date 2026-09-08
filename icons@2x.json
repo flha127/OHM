@@ -407,12 +407,6 @@
     "width": 20,
     "x": 0,
     "y": 100},
-  "bailiwick": {
-    "height": 40,
-    "pixelRatio": 1,
-    "width": 20,
-    "x": 20,
-    "y": 100},
   "casino": {
     "height": 20,
     "pixelRatio": 1,
@@ -640,5 +634,23 @@
     "pixelRatio": 1,
     "width": 20,
     "x": 260,
-    "y": 140}
+    "y": 140},
+  "city_gate_Middle_Ages": {
+    "height": 40,
+    "pixelRatio": 1,
+    "width": 28,
+    "x": 0,
+    "y": 160},
+  "bailiwick": {
+    "height": 40,
+    "pixelRatio": 1,
+    "width": 23,
+    "x": 28,
+    "y": 160},
+  "city_gate_18XX": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 30,
+    "x": 60,
+    "y": 160}
 }
