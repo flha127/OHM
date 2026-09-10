@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   width="20"
+   height="20"
+   viewBox="0 0 20 20"
+   id="svg3857"
+   sodipodi:docname="clinic.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs3861" />
+  <sodipodi:namedview
+     id="namedview3859"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="27.714286"
+     inkscape:cx="6.5128866"
+     inkscape:cy="8.8402062"
+     inkscape:window-width="1920"
+     inkscape:window-height="974"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3857" />
+  <g
+     id="g25922"
+     transform="translate(2.4587631,1.6649483)">
+    <rect
+       width="14"
+       height="14"
+       x="0.54123688"
+       y="4.3350515"
+       id="canvas"
+       style="visibility:hidden;fill:none;stroke:none" />
+    <path
+       d="m 7.5412367,1.1921946 c -1.6581571,0 -3.3316656,0.7210075 -4.4642856,2.1428572 -0.9821229,1.2329212 -1.25,2.1428571 -1.3839286,3.571429 -4.1373713,0.034 -4.1517856,1.5453 -4.1517856,11.4285712 H 17.541237 c 0,-9.8832712 -0.01443,-11.3946426 -4.151786,-11.4285712 C 13.255522,5.4779089 12.963432,4.54376 12.005522,3.3350518 10.876458,1.9103774 9.1993939,1.1921946 7.5412367,1.1921946 Z m 0,2.8571429 C 9.3718249,4.0423475 10.39838,5.4779089 10.487665,6.9064808 H 4.5948082 C 4.6840939,5.4779089 5.7106482,4.0563285 7.5412367,4.0493375 Z M 6.1126653,8.3350522 h 2.8571426 v 2.8571428 h 2.8571431 v 2.857143 H 8.9698079 V 16.90648 H 6.1126653 V 14.049338 H 3.2555225 v -2.857143 h 2.8571428 z"
+       id="doctor"
+       style="fill:#ff0000;fill-opacity:1;stroke-width:1" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke-width:0.505266"
+       id="rect238-8-4-1-7-4"
+       width="20"
+       height="20"
+       x="-17.541237"
+       y="-1.6649483"
+       transform="scale(-1,1)" />
+  </g>
+</svg>

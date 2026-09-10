@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="20"
+   height="20"
+   id="svg3800"
+   version="1.1"
+   viewBox="0 0 20 20"
+   sodipodi:docname="car_repair.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview3613"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="4.8992399"
+     inkscape:cx="92.157154"
+     inkscape:cy="7.1439654"
+     inkscape:window-width="1920"
+     inkscape:window-height="974"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3800" />
+  <defs
+     id="defs3802" />
+  <metadata
+     id="metadata3805">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="g22215">
+    <g
+       transform="matrix(1.4285714,0,0,1.4285714,2.217199,4.0149286)"
+       id="g97"
+       style="fill:#cf7900;fill-opacity:1;stroke-width:0.7">
+      <g
+         id="g105"
+         style="fill:#cf7900;fill-opacity:1;stroke-width:0.7">
+        <path
+           id="repair-car"
+           transform="translate(-1.5520395,-2.8104498)"
+           d="M 2.7441406,0 C 2.0338764,3.935e-4 1.3740289,0.4117078 1,1 H 3.3691406 L 3.9921875,2 3.3691406,3 H 1.0019531 c 0.3736757,0.5877381 1.0325935,0.9989723 1.7421875,1 0.7582358,-10e-8 1.4121156,-0.404234 1.7675782,-1 H 9.1777344 C 9.533156,3.5959232 10.188909,4.0000003 10.947266,4 12.080957,4.0000002 13,3.1045696 13,2 13,0.8954304 12.080957,-2e-7 10.947266,0 10.188909,-2.6757065e-7 9.533156,0.40407682 9.1777344,1 H 4.5117188 C 4.1562561,0.40423403 3.5023764,6.6882008e-8 2.7441406,0 Z m 7.5781254,1 h 1.25 l 0.623046,1 -0.623046,1 h -1.25 L 9.6992188,2 Z M 4,6 3,9 C 2.527344,9 2,9.384295 2,10 v 3 h 1 c 0,0 2.19e-5,1 1,1 0.9999789,0 1,-1 1,-1 h 4 c 0,0 2.14e-5,1 1,1 0.999979,0 1,-1 1,-1 h 1 V 10 C 12,9.479394 11.544563,9 11,9 L 10,6 Z m 1,1 h 4 l 0.625,2 h -5.25 z m -1,3.25 c 0.414205,0 0.75,0.335786 0.75,0.75 0,0.414214 -0.335795,0.75 -0.75,0.75 -0.414205,0 -0.75,-0.335786 -0.75,-0.75 0,-0.414214 0.335795,-0.75 0.75,-0.75 z m 6,0 c 0.414205,0 0.75,0.335786 0.75,0.75 0,0.414214 -0.335795,0.75 -0.75,0.75 -0.4142052,0 -0.75,-0.335786 -0.75,-0.75 0,-0.414214 0.3357948,-0.75 0.75,-0.75 z"
+           style="fill:#cf7900;fill-opacity:1;stroke-width:0.7" />
+      </g>
+    </g>
+    <rect
+       style="fill:none;fill-opacity:1;stroke-width:0.505266"
+       id="rect238-8-4-1-7-4"
+       width="20"
+       height="20"
+       x="-20"
+       y="0"
+       transform="scale(-1,1)" />
+  </g>
+</svg>

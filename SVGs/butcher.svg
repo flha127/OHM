@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.0"
+   width="20"
+   height="20"
+   id="svg2"
+   sodipodi:docname="butcher.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview3235"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="19.596959"
+     inkscape:cx="17.324116"
+     inkscape:cy="11.8896"
+     inkscape:window-width="1920"
+     inkscape:window-height="974"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://web.resource.org/cc/PublicDomain" />
+        <dc:language>en</dc:language>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs4" />
+  <g
+     id="g7002">
+    <path
+       d="m 8.4781914,14.570809 c 0,0 -1.667572,-1.952093 -3.401486,-4.7917837 C 3.7009824,7.526084 2.4286274,4.558579 2.3121064,4.2432792 3.2512674,3.561604 8.0439744,1.4069521 9.0156834,1.1957971 c 0.282552,1.089659 0.724896,3.2235069 1.6594876,5.2965622 0.965575,2.1418206 2.127899,3.8116257 2.560509,4.3759517 -1.035226,0.9748 -4.7574886,3.702498 -4.7574886,3.702498 z m 3.2658296,-1.194053 c 0.120488,0.998221 3.490208,5.639518 4.629499,6.481272 0.439754,0.324892 0.747215,0.05979 1.49413,-0.466908 0.74689,-0.527077 1.028074,-0.975921 0.755895,-1.610508 -0.558652,-1.302557 -3.002363,-5.978984 -4.14969,-6.728428 C 13.369971,9.4481543 12.445005,8.2354149 11.535369,6.0114991 10.59421,3.710596 9.9935404,1.3731921 9.6333954,1.9133686e-7 8.3521604,0.37110964 6.2304424,1.2687981 4.9251144,1.8697487 c -1.454342,0.6694669 -2.494717,1.3231128 -3.650409,1.9418777 0.365558,1.0611312 1.239614,3.674718 3.064972,6.4982136 1.442314,2.231017 2.654889,4.007334 4.022257,5.358725 z M 6.6768104,4.0925434 c 0,-0.516115 0.442643,-0.9348121 0.988672,-0.9348121 0.546029,0 0.988674,0.4186971 0.988674,0.9348121 0,0.5164885 -0.442645,0.9351857 -0.988674,0.9351857 -0.546029,0 -0.988672,-0.4186972 -0.988672,-0.9351857 z"
+       id="path4036"
+       style="fill:#cf7900;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.241231;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke-width:0.505266"
+       id="rect238-8-4-1-7-4"
+       width="20"
+       height="20"
+       x="-20"
+       y="0"
+       transform="scale(-1,1)" />
+  </g>
+</svg>
