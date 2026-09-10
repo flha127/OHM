@@ -497,12 +497,6 @@
     "width": 20,
     "x": 100,
     "y": 120},
-  "convenience_store": {
-    "height": 20,
-    "pixelRatio": 1,
-    "width": 20,
-    "x": 120,
-    "y": 120},
   "crane": {
     "height": 20,
     "pixelRatio": 1,
