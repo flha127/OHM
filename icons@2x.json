@@ -663,19 +663,19 @@
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
-    "x": 100,
+    "x": 120,
     "y": 160},
   "industrial_pattern": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
-    "x": 120,
+    "x": 140,
     "y": 160},
   "police_station_pattern": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
-    "x": 140,
+    "x": 160,
     "y": 160},
   "heliport": {
     "height": 20,
