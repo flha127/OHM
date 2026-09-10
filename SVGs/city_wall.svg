@@ -2,13 +2,13 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="5.2916675mm"
-   height="2.6458335mm"
-   viewBox="0 0 5.2916675 2.6458335"
+   width="5.2916665mm"
+   height="2.6458342mm"
+   viewBox="0 0 5.2916665 2.6458342"
    version="1.1"
    id="svg1779"
    inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
-   sodipodi:docname="city_walls.svg"
+   sodipodi:docname="city_wall.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -24,9 +24,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.69130191"
-     inkscape:cx="-115.00041"
-     inkscape:cy="-151.88733"
+     inkscape:zoom="0.71446409"
+     inkscape:cx="-177.05579"
+     inkscape:cy="-145.56365"
      inkscape:window-width="1920"
      inkscape:window-height="974"
      inkscape:window-x="-11"
@@ -39,22 +39,22 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-135.5204,-188.51214)">
+     transform="translate(-152.14968,-187.1721)">
     <g
-       id="g1763"
-       transform="translate(82.603689,143.53302)">
+       id="g1725"
+       transform="translate(100.38452,129.41962)">
       <path
          id="rect238-8-1-3-5-3-5-3"
          style="fill:#8f0000;fill-opacity:1;stroke-width:0.133685"
-         d="m 54.239631,44.979118 1.322917,2.645833 h -2.645834 z"
+         d="m 54.410994,57.752477 1.322917,2.645833 h -2.645834 z"
          sodipodi:nodetypes="cccc" />
       <rect
          style="fill:none;fill-opacity:1;stroke-width:0.133685"
          id="rect238-8-4-1-7-4-85-3"
          width="5.2916665"
          height="2.6458333"
-         x="-58.208382"
-         y="44.979118"
+         x="-57.056828"
+         y="57.752476"
          transform="scale(-1,1)" />
     </g>
   </g>
