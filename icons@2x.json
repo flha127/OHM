@@ -677,6 +677,18 @@
     "width": 20,
     "x": 180,
     "y": 160},
+  "city_walls": {
+    "height": 10,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 200,
+    "y": 160},
+  "cliff": {
+    "height": 10,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 220,
+    "y": 160},
   "heliport": {
     "height": 20,
     "pixelRatio": 1,
