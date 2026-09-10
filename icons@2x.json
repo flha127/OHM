@@ -623,7 +623,7 @@
     "width": 20,
     "x": 240,
     "y": 140},
-  "EMPTY": {
+  "atm": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
@@ -695,10 +695,94 @@
     "width": 20,
     "x": 240,
     "y": 160},
+  "butcher": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 260,
+    "y": 160},
   "heliport": {
     "height": 20,
     "pixelRatio": 1,
     "width": 78,
     "x": 60,
-    "y": 180}
+    "y": 180},
+  "bureau_de_change": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 140,
+    "y": 180},
+  "car": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 160,
+    "y": 180},
+  "car_repair": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 180,
+    "y": 180},
+  "car_wash": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 200,
+    "y": 180},
+  "clinic": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 220,
+    "y": 180},
+  "convenience": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 240,
+    "y": 180},
+  "dentist": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 260,
+    "y": 180},
+  "department_store": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 0,
+    "y": 200},
+  "golf_course": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 20,
+    "y": 200},
+  "pharmacy": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 40,
+    "y": 200},
+  "post_box": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 60,
+    "y": 200},
+  "telephone": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 80,
+    "y": 200},
+  "veterinary": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 100,
+    "y": 200}
 }
