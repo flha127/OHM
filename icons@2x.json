@@ -431,12 +431,6 @@
     "width": 20,
     "x": 100,
     "y": 100},
-  "police_station_prison": {
-    "height": 20,
-    "pixelRatio": 1,
-    "width": 40,
-    "x": 100,
-    "y": 100},
   "prison": {
     "height": 20,
     "pixelRatio": 1,
@@ -671,11 +665,17 @@
     "width": 20,
     "x": 140,
     "y": 160},
-  "police_station_pattern": {
+  "police_pattern": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
     "x": 160,
+    "y": 160},
+  "emergency_pattern": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 180,
     "y": 160},
   "heliport": {
     "height": 20,
