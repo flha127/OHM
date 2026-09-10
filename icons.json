@@ -689,6 +689,12 @@
     "width": 20,
     "x": 220,
     "y": 160},
+  "wetland": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 240,
+    "y": 160},
   "heliport": {
     "height": 20,
     "pixelRatio": 1,
