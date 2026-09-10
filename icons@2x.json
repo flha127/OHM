@@ -407,6 +407,12 @@
     "width": 20,
     "x": 0,
     "y": 100},
+  "fortified_gateway_18XX": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 20,
+    "y": 100},
   "casino": {
     "height": 20,
     "pixelRatio": 1,
