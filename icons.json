@@ -784,5 +784,11 @@
     "pixelRatio": 1,
     "width": 20,
     "x": 100,
+    "y": 200},
+  "fuel": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 120,
     "y": 200}
 }
