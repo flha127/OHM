@@ -749,4 +749,40 @@
     "width": 20,
     "x": 260,
     "y": 180},
+  "department_store": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 0,
+    "y": 200},
+  "golf_course": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 20,
+    "y": 200},
+  "pharmacy": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 40,
+    "y": 200},
+  "post_box": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 60,
+    "y": 200},
+  "telephone": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 80,
+    "y": 200},
+  "veterinary": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 100,
+    "y": 200}
 }
