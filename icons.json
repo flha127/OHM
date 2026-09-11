@@ -810,6 +810,133 @@
 "x": 186,
 "y": 200},
 
+	"crane": {
+"height": 20,
+"pixelRatio": 1,
+"width": 20,
+"x": 0,
+"y": 140},
+    "lighthouse": {
+"height": 20,
+"pixelRatio": 1,
+"width": 20,
+"x": 20,
+"y": 140},
+    "chimney": {
+"height": 20,
+"pixelRatio": 1,
+"width": 20,
+"x": 40,
+"y": 140},
+    "silo": {
+"height": 20,
+"pixelRatio": 1,
+"width": 20,
+"x": 60,
+"y": 140},
+    "cooling_tower": {
+"height": 20,
+"pixelRatio": 1,
+"width": 20,
+"x": 80,
+"y": 140},
+    "hunting_stand": {
+"height": 20,
+"pixelRatio": 1,
+"width": 20,
+"x": 100,
+"y": 140},
+    "watchtower": {
+"height": 20,
+"pixelRatio": 1,
+"width": 20,
+"x": 120,
+"y": 140},
+    "bell_tower": {
+"height": 20,
+"pixelRatio": 1,
+"width": 20,
+"x": 140,
+"y": 140},
+    "water_tower": {
+"height": 20,
+"pixelRatio": 1,
+"width": 20,
+"x": 160,
+"y": 140},
+    "dame": {
+"height": 20,
+"pixelRatio": 1,
+"width": 20,
+"x": 180,
+"y": 140},
+    "communications_mast": {
+"height": 20,
+"pixelRatio": 1,
+"width": 20,
+"x": 200,
+"y": 140},
+    "communications_tower": {
+"height": 20,
+"pixelRatio": 1,
+"width": 20,
+"x": 220,
+"y": 140},
+    "spoil_heap": {
+"height": 20,
+"pixelRatio": 1,
+"width": 20,
+"x": 240,
+"y": 140},
+    "headframe": {
+"height": 40,
+"pixelRatio": 1,
+"width": 20,
+"x": 260,
+"y": 140},
+	"EMPTY_STRING": {
+"height": 20,
+"pixelRatio": 1,
+"width": 20,
+"x": 260,
+"y": 140},
+    "EMPTY_STRING": {
+"height": 20,
+"pixelRatio": 1,
+"width": 20,
+"x": 280,
+"y": 140},
+    "EMPTY_STRING": {
+"height": 20,
+"pixelRatio": 1,
+"width": 20,
+"x": 300,
+"y": 140},
+    "EMPTY_STRING": {
+"height": 20,
+"pixelRatio": 1,
+"width": 20,
+"x": 320,
+"y": 140},
+    "EMPTY_STRING": {
+"height": 20,
+"pixelRatio": 1,
+"width": 20,
+"x": 340,
+"y": 140},
+    "EMPTY_STRING": {
+"height": 20,
+"pixelRatio": 1,
+"width": 20,
+"x": 360,
+"y": 140},
+    "EMPTY_STRING": {
+"height": 20,
+"pixelRatio": 1,
+"width": 20,
+"x": 380,
+"y": 140},
+
 	"statue": {
 "height": 20,
 "pixelRatio": 1,
@@ -870,19 +997,37 @@
 "width": 20,
 "x": 180,
 "y": 200},
-    "EMPTY_STRING": {
+    "bollard": {
 "height": 20,
 "pixelRatio": 1,
 "width": 20,
 "x": 200,
 "y": 200},
-    "EMPTY_STRING": {
+	"block": {
+"height": 20,
+"pixelRatio": 1,
+"width": 20,
+"x": 200,
+"y": 200},
+	"turnstile": {
+"height": 20,
+"pixelRatio": 1,
+"width": 20,
+"x": 200,
+"y": 200},
+	"log": {
+"height": 20,
+"pixelRatio": 1,
+"width": 20,
+"x": 200,
+"y": 200},
+    "gate": {
 "height": 20,
 "pixelRatio": 1,
 "width": 20,
 "x": 220,
 "y": 200},
-    "EMPTY_STRING": {
+    "embrasure": {
 "height": 20,
 "pixelRatio": 1,
 "width": 20,
