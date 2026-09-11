@@ -293,7 +293,7 @@
 "width": 20,
 "x": 140,
 "y": 60},
-  "fortified_gateway_early_modern_period": {
+  "ff": {
 "height": 20,
 "pixelRatio": 1,
 "width": 20,
@@ -413,7 +413,7 @@
 "width": 20,
 "x": 0,
 "y": 100},
-  "fortified_gateway_18XX": {
+  "ff": {
 "height": 20,
 "pixelRatio": 1,
 "width": 20,
@@ -641,7 +641,7 @@
 "width": 22,
 "x": 0,
 "y": 160},
-  "bailiwick": {
+  "Xfsdggf": {
 "height": 40,
 "pixelRatio": 1,
 "width": 23,
@@ -791,7 +791,7 @@
 "width": 20,
 "x": 140,
 "y": 200},
-  "fortified_gateway_middle_ages": {
+  "dd": {
 "height": 20,
 "pixelRatio": 1,
 "width": 26,
@@ -814,21 +814,15 @@
 "height": 20,
 "pixelRatio": 1,
 "width": 20,
-"x": 20,
+"x": 40,
 "y": 20},
     "customs": {
 "height": 20,
 "pixelRatio": 1,
 "width": 20,
-"x": 40,
-"y": 20},
-    "prison": {
-"height": 20,
-"pixelRatio": 1,
-"width": 20,
 "x": 60,
 "y": 20},
-    "courthouse": {
+    "prison": {
 "height": 20,
 "pixelRatio": 1,
 "width": 20,
@@ -852,12 +846,6 @@
 "width": 20,
 "x": 140,
 "y": 20},
-	"EMPTY_STRING": {
-"height": 20,
-"pixelRatio": 1,
-"width": 20,
-"x": 140,
-"y": 20},
     "airfield": {
 "height": 20,
 "pixelRatio": 1,
@@ -876,13 +864,13 @@
 "width": 20,
 "x": 200,
 "y": 20},
-    "EMPTY_STRING": {
+    "courthouse": {
 "height": 20,
 "pixelRatio": 1,
 "width": 20,
 "x": 220,
 "y": 20},
-    "EMPTY_STRING": {
+    "military_pattern": {
 "height": 20,
 "pixelRatio": 1,
 "width": 20,
@@ -1070,19 +1058,19 @@
 "width": 20,
 "x": 100,
 "y": 160},
-    "EMPTY_STRING": {
+    "keep": {
 "height": 20,
 "pixelRatio": 1,
 "width": 20,
 "x": 120,
 "y": 160},
-    "EMPTY_STRING": {
-"height": 20,
+    "city_gate_middle_ages": {
+"height": 35,
 "pixelRatio": 1,
-"width": 20,
+"width": 24,
 "x": 140,
 "y": 160},
-    "EMPTY_STRING": {
+    "city_gate_early_modern_period": {
 "height": 20,
 "pixelRatio": 1,
 "width": 20,
@@ -2158,7 +2146,7 @@
 "width": 20,
 "x": 260,
 "y": 400},
-    "EMPTY_STRING": {
+    "public_transport_pattern": {
 "height": 20,
 "pixelRatio": 1,
 "width": 20,
@@ -2267,7 +2255,7 @@
 "width": 20,
 "x": 200,
 "y": 440},
-    "EMPTY_STRING": {
+    "industrial_pattern": {
 "height": 20,
 "pixelRatio": 1,
 "width": 20,
