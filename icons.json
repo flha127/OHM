@@ -563,7 +563,7 @@
 "width": 20,
 "x": 0,
 "y": 140},
-  "level_crossing": {
+  "XX": {
 "height": 20,
 "pixelRatio": 1,
 "width": 20,
@@ -808,6 +808,127 @@
 "pixelRatio": 1,
 "width": 36,
 "x": 186,
+"y": 200},
+
+	"statue": {
+"height": 20,
+"pixelRatio": 1,
+"width": 20,
+"x": 0,
+"y": 200},
+    "monument": {
+"height": 20,
+"pixelRatio": 1,
+"width": 20,
+"x": 20,
+"y": 200},
+    "memorial": {
+"height": 20,
+"pixelRatio": 1,
+"width": 20,
+"x": 40,
+"y": 200},
+    "flagpole": {
+"height": 20,
+"pixelRatio": 1,
+"width": 20,
+"x": 60,
+"y": 200},
+    "catenary_mast": {
+"height": 20,
+"pixelRatio": 1,
+"width": 20,
+"x": 80,
+"y": 200},
+    "street_lamp": {
+"height": 20,
+"pixelRatio": 1,
+"width": 20,
+"x": 100,
+"y": 200},
+    "traffic_signals": {
+"height": 20,
+"pixelRatio": 1,
+"width": 20,
+"x": 120,
+"y": 200},
+    "fountain": {
+"height": 20,
+"pixelRatio": 1,
+"width": 20,
+"x": 140,
+"y": 200},
+    "level_crossing": {
+"height": 20,
+"pixelRatio": 1,
+"width": 20,
+"x": 160,
+"y": 200},
+    "boundary_marker": {
+"height": 20,
+"pixelRatio": 1,
+"width": 20,
+"x": 180,
+"y": 200},
+    "EMPTY_STRING": {
+"height": 20,
+"pixelRatio": 1,
+"width": 20,
+"x": 200,
+"y": 200},
+    "EMPTY_STRING": {
+"height": 20,
+"pixelRatio": 1,
+"width": 20,
+"x": 220,
+"y": 200},
+    "EMPTY_STRING": {
+"height": 20,
+"pixelRatio": 1,
+"width": 20,
+"x": 240,
+"y": 200},
+    "EMPTY_STRING": {
+"height": 20,
+"pixelRatio": 1,
+"width": 20,
+"x": 260,
+"y": 200},
+    "EMPTY_STRING": {
+"height": 20,
+"pixelRatio": 1,
+"width": 20,
+"x": 280,
+"y": 200},
+    "EMPTY_STRING": {
+"height": 20,
+"pixelRatio": 1,
+"width": 20,
+"x": 300,
+"y": 200},
+    "EMPTY_STRING": {
+"height": 20,
+"pixelRatio": 1,
+"width": 20,
+"x": 320,
+"y": 200},
+    "EMPTY_STRING": {
+"height": 20,
+"pixelRatio": 1,
+"width": 20,
+"x": 340,
+"y": 200},
+    "EMPTY_STRING": {
+"height": 20,
+"pixelRatio": 1,
+"width": 20,
+"x": 360,
+"y": 200},
+    "EMPTY_STRING": {
+"height": 20,
+"pixelRatio": 1,
+"width": 20,
+"x": 380,
 "y": 200},
 
 	"sikh": {
@@ -1668,7 +1789,7 @@
 "width": 20,
 "x": 240,
 "y": 400},
-    "EMPTY_STRING": {
+    "ferry_terminal": {
 "height": 20,
 "pixelRatio": 1,
 "width": 20,
