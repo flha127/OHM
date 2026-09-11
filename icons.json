@@ -179,7 +179,7 @@
 "width": 20,
 "x": 0,
 "y": 40},
-  "embrasure": {
+  "XX": {
 "height": 40,
 "pixelRatio": 1,
 "width": 20,
@@ -449,13 +449,13 @@
 "width": 20,
 "x": 120,
 "y": 100},
-  "gunpowder_magazine": {
+  "XX": {
 "height": 20,
 "pixelRatio": 1,
 "width": 30,
 "x": 140,
 "y": 100},
-  "roundel": {
+  "XXX": {
 "height": 20,
 "pixelRatio": 1,
 "width": 26,
@@ -870,7 +870,7 @@
 "width": 20,
 "x": 180,
 "y": 20},
-    "EMPTY_STRING": {
+    "police_pattern": {
 "height": 20,
 "pixelRatio": 1,
 "width": 20,
@@ -1019,50 +1019,141 @@
 "height": 20,
 "pixelRatio": 1,
 "width": 20,
-"x": 260,
+"x": 280,
 "y": 140},
     "wind_turbine": {
 "height": 20,
 "pixelRatio": 1,
 "width": 20,
-"x": 280,
+"x": 300,
 "y": 140},
     "bridge_pattern": {
 "height": 20,
 "pixelRatio": 1,
 "width": 20,
-"x": 300,
+"x": 320,
 "y": 140},
     "bunker": {
 "height": 20,
 "pixelRatio": 1,
 "width": 20,
-"x": 320,
+"x": 340,
 "y": 140},
 	"roundel": {
 "height": 20,
 "pixelRatio": 1,
 "width": 26,
-"x": 340,
+"x": 360,
 "y": 140},
+
+	"gunpowder_magazine": {
+"height": 20,
+"pixelRatio": 1,
+"width": 20,
+"x": 0,
+"y": 160},
+    "fortified_gateway_middle_ages": {
+"height": 20,
+"pixelRatio": 1,
+"width": 28,
+"x": 40,
+"y": 160},
+    "fortified_gateway_early_modern_period": {
+"height": 20,
+"pixelRatio": 1,
+"width": 20,
+"x": 80,
+"y": 160},
+    "fortified_gateway_18XX": {
+"height": 20,
+"pixelRatio": 1,
+"width": 20,
+"x": 100,
+"y": 160},
+    "EMPTY_STRING": {
+"height": 20,
+"pixelRatio": 1,
+"width": 20,
+"x": 120,
+"y": 160},
+    "EMPTY_STRING": {
+"height": 20,
+"pixelRatio": 1,
+"width": 20,
+"x": 140,
+"y": 160},
+    "EMPTY_STRING": {
+"height": 20,
+"pixelRatio": 1,
+"width": 20,
+"x": 160,
+"y": 160},
+    "EMPTY_STRING": {
+"height": 20,
+"pixelRatio": 1,
+"width": 20,
+"x": 180,
+"y": 160},
+    "EMPTY_STRING": {
+"height": 20,
+"pixelRatio": 1,
+"width": 20,
+"x": 200,
+"y": 160},
+    "EMPTY_STRING": {
+"height": 20,
+"pixelRatio": 1,
+"width": 20,
+"x": 220,
+"y": 160},
+    "EMPTY_STRING": {
+"height": 20,
+"pixelRatio": 1,
+"width": 20,
+"x": 240,
+"y": 160},
+    "EMPTY_STRING": {
+"height": 20,
+"pixelRatio": 1,
+"width": 20,
+"x": 260,
+"y": 160},
+    "EMPTY_STRING": {
+"height": 20,
+"pixelRatio": 1,
+"width": 20,
+"x": 280,
+"y": 160},
+    "EMPTY_STRING": {
+"height": 20,
+"pixelRatio": 1,
+"width": 20,
+"x": 300,
+"y": 160},
+    "EMPTY_STRING": {
+"height": 20,
+"pixelRatio": 1,
+"width": 20,
+"x": 320,
+"y": 160},
     "EMPTY_STRING": {
 "height": 20,
 "pixelRatio": 1,
 "width": 20,
 "x": 340,
-"y": 140},
+"y": 160},
     "EMPTY_STRING": {
 "height": 20,
 "pixelRatio": 1,
 "width": 20,
 "x": 360,
-"y": 140},
+"y": 160},
     "EMPTY_STRING": {
 "height": 20,
 "pixelRatio": 1,
 "width": 20,
 "x": 380,
-"y": 140},
+"y": 160},
 
 	"statue": {
 "height": 20,
@@ -2170,7 +2261,7 @@
 "width": 20,
 "x": 180,
 "y": 440},
-    "EMPTY_STRING": {
+    "grass_pattern": {
 "height": 20,
 "pixelRatio": 1,
 "width": 20,
