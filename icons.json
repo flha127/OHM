@@ -197,7 +197,7 @@
 "width": 20,
 "x": 40,
 "y": 40},
-  "exchange": {
+  "XXXx": {
 "height": 20,
 "pixelRatio": 1,
 "width": 20,
@@ -755,7 +755,7 @@
 "width": 20,
 "x": 0,
 "y": 200},
-  "golf_course": {
+  "XX": {
 "height": 20,
 "pixelRatio": 1,
 "width": 20,
@@ -1117,7 +1117,7 @@
 "width": 20,
 "x": 60,
 "y": 280},
-    "EMPTY_STRING": {
+    "exchange": {
 "height": 20,
 "pixelRatio": 1,
 "width": 20,
@@ -1588,5 +1588,132 @@
 "width": 20,
 "x": 380,
 "y": 400},
+
+	"wetland": {
+"height": 20,
+"pixelRatio": 1,
+"width": 20,
+"x": 0,
+"y": 440},
+    "cliff": {
+"height": 10,
+"pixelRatio": 1,
+"width": 20,
+"x": 20,
+"y": 440},
+    "EMPTY_STRING": {
+"height": 20,
+"pixelRatio": 1,
+"width": 20,
+"x": 20,
+"y": 440},
+    "cave_entrance": {
+"height": 20,
+"pixelRatio": 1,
+"width": 20,
+"x": 40,
+"y": 440},
+    "peak": {
+"height": 20,
+"pixelRatio": 1,
+"width": 20,
+"x": 60,
+"y": 440},
+    "volcano": {
+"height": 20,
+"pixelRatio": 1,
+"width": 20,
+"x": 80,
+"y": 440},
+    "tree": {
+"height": 20,
+"pixelRatio": 1,
+"width": 20,
+"x": 100,
+"y": 440},
+    "waterfall": {
+"height": 20,
+"pixelRatio": 1,
+"width": 20,
+"x": 120,
+"y": 440},
+    "spring": {
+"height": 20,
+"pixelRatio": 1,
+"width": 20,
+"x": 140,
+"y": 440},
+    "EMPTY_STRING": {
+"height": 20,
+"pixelRatio": 1,
+"width": 20,
+"x": 160,
+"y": 440},
+    "EMPTY_STRING": {
+"height": 20,
+"pixelRatio": 1,
+"width": 20,
+"x": 180,
+"y": 440},
+    "EMPTY_STRING": {
+"height": 20,
+"pixelRatio": 1,
+"width": 20,
+"x": 200,
+"y": 440},
+    "EMPTY_STRING": {
+"height": 20,
+"pixelRatio": 1,
+"width": 20,
+"x": 220,
+"y": 440},
+    "EMPTY_STRING": {
+"height": 20,
+"pixelRatio": 1,
+"width": 20,
+"x": 240,
+"y": 440},
+    "EMPTY_STRING": {
+"height": 20,
+"pixelRatio": 1,
+"width": 20,
+"x": 260,
+"y": 440},
+    "EMPTY_STRING": {
+"height": 20,
+"pixelRatio": 1,
+"width": 20,
+"x": 280,
+"y": 440},
+    "EMPTY_STRING": {
+"height": 20,
+"pixelRatio": 1,
+"width": 20,
+"x": 300,
+"y": 440},
+    "EMPTY_STRING": {
+"height": 20,
+"pixelRatio": 1,
+"width": 20,
+"x": 320,
+"y": 440},
+    "EMPTY_STRING": {
+"height": 20,
+"pixelRatio": 1,
+"width": 20,
+"x": 340,
+"y": 440},
+    "EMPTY_STRING": {
+"height": 20,
+"pixelRatio": 1,
+"width": 20,
+"x": 360,
+"y": 440},
+    "EMPTY_STRING": {
+"height": 20,
+"pixelRatio": 1,
+"width": 20,
+"x": 380,
+"y": 440}
 
 }
