@@ -725,18 +725,6 @@
     "width": 20,
     "x": 140,
     "y": 180},
-  "car": {
-    "height": 20,
-    "pixelRatio": 1,
-    "width": 20,
-    "x": 160,
-    "y": 180},
-  "car_repair": {
-    "height": 20,
-    "pixelRatio": 1,
-    "width": 20,
-    "x": 180,
-    "y": 180},
   "car_wash": {
     "height": 20,
     "pixelRatio": 1,
@@ -1050,7 +1038,7 @@
     "width": 20,
     "x": 200,
     "y": 260},
-  "EMPTY_STRING": {
+  "department_store": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
@@ -1118,115 +1106,115 @@
     "width": 20,
     "x": 0,
     "y": 320},
-  "EMPTY_STRING": {
+  "fuel": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
     "x": 20,
     "y": 320},
-  "EMPTY_STRING": {
+  "telephone": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
     "x": 40,
     "y": 320},
-  "EMPTY_STRING": {
+  "post_box": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
     "x": 60,
     "y": 320},
-  "EMPTY_STRING": {
+  "post_office": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
     "x": 80,
     "y": 320},
-	"EMPTY_STRING": {
+	"veterinary": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
     "x": 100,
     "y": 320},
-  "EMPTY_STRING": {
+  "bank": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
     "x": 120,
     "y": 320},
-  "EMPTY_STRING": {
+  "atm": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
     "x": 140,
     "y": 320},
-  "EMPTY_STRING": {
+  "bureau_de_change": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
     "x": 160,
     "y": 320},
-  "EMPTY_STRING": {
+  "internet_cafe": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
     "x": 180,
     "y": 320},
-	"EMPTY_STRING": {
+	"casino": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
     "x": 200,
     "y": 320},
-  "EMPTY_STRING": {
+  "fast_food": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
     "x": 220,
     "y": 320},
-  "EMPTY_STRING": {
+  "cafe": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
     "x": 240,
     "y": 320},
-  "EMPTY_STRING": {
+  "restaurant": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
     "x": 260,
     "y": 320},
-  "EMPTY_STRING": {
+  "cinema": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
     "x": 280,
     "y": 320},
-	"EMPTY_STRING": {
+	"ice_cream": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
     "x": 300,
     "y": 320},
-  "EMPTY_STRING": {
+  "theatre": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
     "x": 320,
     "y": 320},
-  "EMPTY_STRING": {
+  "pub": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
     "x": 340,
     "y": 320},
-  "EMPTY_STRING": {
+  "bar": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
     "x": 360,
     "y": 320},
-  "EMPTY_STRING": {
+  "biergarten": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
