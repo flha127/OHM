@@ -149,12 +149,6 @@
 "width": 20,
 "x": 160,
 "y": 20},
-  "hospital": {
-"height": 20,
-"pixelRatio": 1,
-"width": 20,
-"x": 180,
-"y": 20},
   "fortified_tower": {
 "height": 20,
 "pixelRatio": 1,
@@ -179,7 +173,7 @@
 "width": 20,
 "x": 260,
 "y": 20},
-  "headframe": {
+  "XX": {
 "height": 40,
 "pixelRatio": 1,
 "width": 20,
@@ -852,19 +846,25 @@
 "width": 20,
 "x": 120,
 "y": 20},
-    "EMPTY_STRING": {
+    "city_wall": {
+"height": 10,
+"pixelRatio": 1,
+"width": 20,
+"x": 140,
+"y": 20},
+	"EMPTY_STRING": {
 "height": 20,
 "pixelRatio": 1,
 "width": 20,
 "x": 140,
 "y": 20},
-    "EMPTY_STRING": {
+    "airfield": {
 "height": 20,
 "pixelRatio": 1,
 "width": 20,
 "x": 160,
 "y": 20},
-    "EMPTY_STRING": {
+    "embrasure": {
 "height": 20,
 "pixelRatio": 1,
 "width": 20,
@@ -1015,29 +1015,35 @@
 "width": 20,
 "x": 260,
 "y": 140},
-	"EMPTY_STRING": {
+	"windmill": {
 "height": 20,
 "pixelRatio": 1,
 "width": 20,
 "x": 260,
 "y": 140},
-    "EMPTY_STRING": {
+    "wind_turbine": {
 "height": 20,
 "pixelRatio": 1,
 "width": 20,
 "x": 280,
 "y": 140},
-    "EMPTY_STRING": {
+    "bridge_pattern": {
 "height": 20,
 "pixelRatio": 1,
 "width": 20,
 "x": 300,
 "y": 140},
-    "EMPTY_STRING": {
+    "bunker": {
 "height": 20,
 "pixelRatio": 1,
 "width": 20,
 "x": 320,
+"y": 140},
+	"roundel": {
+"height": 20,
+"pixelRatio": 1,
+"width": 26,
+"x": 340,
 "y": 140},
     "EMPTY_STRING": {
 "height": 20,
@@ -1148,7 +1154,7 @@
 "width": 20,
 "x": 220,
 "y": 200},
-    "embrasure": {
+    "EMPTY_STRING": {
 "height": 20,
 "pixelRatio": 1,
 "width": 20,
