@@ -984,61 +984,67 @@
     "width": 20,
     "x": 0,
     "y": 260},
-  "EMPTY_STRING": {
+  "furniture": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
     "x": 20,
     "y": 260},
-  "EMPTY_STRING": {
+  "florist": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
     "x": 40,
     "y": 260},
-  "EMPTY_STRING": {
+  "garden_centre": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
     "x": 60,
     "y": 260},
-  "EMPTY_STRING": {
+  "convenience": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
     "x": 80,
     "y": 260},
-	"EMPTY_STRING": {
+  "supermarket": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
     "x": 100,
     "y": 260},
-  "EMPTY_STRING": {
+  "clothes": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
     "x": 120,
     "y": 260},
-  "EMPTY_STRING": {
+  "fashion": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 120,
+    "y": 260},
+  "butcher": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
     "x": 140,
     "y": 260},
-  "EMPTY_STRING": {
+  "bakery": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
     "x": 160,
     "y": 260},
-  "EMPTY_STRING": {
+  "car_repair": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
     "x": 180,
     "y": 260},
-	"EMPTY_STRING": {
+	"car": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
@@ -1104,5 +1110,126 @@
     "pixelRatio": 1,
     "width": 20,
     "x": 0,
-    "y": 280}
+    "y": 280},
+
+  "marketplace": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 0,
+    "y": 320},
+  "EMPTY_STRING": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 20,
+    "y": 320},
+  "EMPTY_STRING": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 40,
+    "y": 320},
+  "EMPTY_STRING": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 60,
+    "y": 320},
+  "EMPTY_STRING": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 80,
+    "y": 320},
+	"EMPTY_STRING": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 100,
+    "y": 320},
+  "EMPTY_STRING": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 120,
+    "y": 320},
+  "EMPTY_STRING": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 140,
+    "y": 320},
+  "EMPTY_STRING": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 160,
+    "y": 320},
+  "EMPTY_STRING": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 180,
+    "y": 320},
+	"EMPTY_STRING": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 200,
+    "y": 320},
+  "EMPTY_STRING": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 220,
+    "y": 320},
+  "EMPTY_STRING": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 240,
+    "y": 320},
+  "EMPTY_STRING": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 260,
+    "y": 320},
+  "EMPTY_STRING": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 280,
+    "y": 320},
+	"EMPTY_STRING": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 300,
+    "y": 320},
+  "EMPTY_STRING": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 320,
+    "y": 320},
+  "EMPTY_STRING": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 340,
+    "y": 320},
+  "EMPTY_STRING": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 360,
+    "y": 320},
+  "EMPTY_STRING": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 380,
+    "y": 320},	
 }
