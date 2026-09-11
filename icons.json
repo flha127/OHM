@@ -1233,7 +1233,19 @@
 "width": 20,
 "x": 20,
 "y": 340},
-    "EMPTY_STRING": {
+    "hotel": {
+"height": 20,
+"pixelRatio": 1,
+"width": 20,
+"x": 40,
+"y": 340},
+	"hostel": {
+"height": 20,
+"pixelRatio": 1,
+"width": 20,
+"x": 40,
+"y": 340},
+	"motel": {
 "height": 20,
 "pixelRatio": 1,
 "width": 20,
@@ -1340,6 +1352,127 @@
 "pixelRatio": 1,
 "width": 20,
 "x": 380,
-"y": 340}
+"y": 340},
+
+	"bus_stop": {
+"height": 20,
+"pixelRatio": 1,
+"width": 20,
+"x": 0,
+"y": 400},
+    "tram_stop": {
+"height": 20,
+"pixelRatio": 1,
+"width": 20,
+"x": 20,
+"y": 400},
+    "subway_station": {
+"height": 20,
+"pixelRatio": 1,
+"width": 20,
+"x": 40,
+"y": 400},
+    "bus_station": {
+"height": 20,
+"pixelRatio": 1,
+"width": 20,
+"x": 60,
+"y": 400},
+    "halt": {
+"height": 20,
+"pixelRatio": 1,
+"width": 20,
+"x": 80,
+"y": 400},
+    "station": {
+"height": 20,
+"pixelRatio": 1,
+"width": 20,
+"x": 100,
+"y": 400},
+    "heliport": {
+"height": 16,
+"pixelRatio": 1,
+"width": 60,
+"x": 120,
+"y": 400},
+    "EMPTY_STRING": {
+"height": 20,
+"pixelRatio": 1,
+"width": 20,
+"x": 140,
+"y": 400},
+    "EMPTY_STRING": {
+"height": 20,
+"pixelRatio": 1,
+"width": 20,
+"x": 160,
+"y": 400},
+    "aerodrome": {
+"height": 20,
+"pixelRatio": 1,
+"width": 20,
+"x": 180,
+"y": 400},
+    "parking": {
+"height": 20,
+"pixelRatio": 1,
+"width": 20,
+"x": 200,
+"y": 400},
+    "helipad": {
+"height": 20,
+"pixelRatio": 1,
+"width": 20,
+"x": 220,
+"y": 400},
+    "EMPTY_STRING": {
+"height": 20,
+"pixelRatio": 1,
+"width": 20,
+"x": 240,
+"y": 400},
+    "EMPTY_STRING": {
+"height": 20,
+"pixelRatio": 1,
+"width": 20,
+"x": 260,
+"y": 400},
+    "EMPTY_STRING": {
+"height": 20,
+"pixelRatio": 1,
+"width": 20,
+"x": 280,
+"y": 400},
+    "EMPTY_STRING": {
+"height": 20,
+"pixelRatio": 1,
+"width": 20,
+"x": 300,
+"y": 400},
+    "EMPTY_STRING": {
+"height": 20,
+"pixelRatio": 1,
+"width": 20,
+"x": 320,
+"y": 400},
+    "EMPTY_STRING": {
+"height": 20,
+"pixelRatio": 1,
+"width": 20,
+"x": 340,
+"y": 400},
+    "EMPTY_STRING": {
+"height": 20,
+"pixelRatio": 1,
+"width": 20,
+"x": 360,
+"y": 400},
+    "EMPTY_STRING": {
+"height": 20,
+"pixelRatio": 1,
+"width": 20,
+"x": 380,
+"y": 400},
 
 }
