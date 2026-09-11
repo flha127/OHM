@@ -1100,7 +1100,13 @@
 "width": 20,
 "x": 240,
 "y": 320},
-  "restaurant": {
+	"restaurant": {
+"height": 20,
+"pixelRatio": 1,
+"width": 20,
+"x": 260,
+"y": 320},
+  "food_court": {
 "height": 20,
 "pixelRatio": 1,
 "width": 20,
