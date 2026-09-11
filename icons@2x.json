@@ -163,6 +163,12 @@
 "width": 20,
 "x": 120,
 "y": 140},
+	"observation_tower": {
+"height": 20,
+"pixelRatio": 1,
+"width": 20,
+"x": 120,
+"y": 140},
     "bell_tower": {
 "height": 20,
 "pixelRatio": 1,
@@ -731,6 +737,12 @@
 "width": 20,
 "x": 300,
 "y": 240},
+	"jewelry": {
+"height": 20,
+"pixelRatio": 1,
+"width": 20,
+"x": 300,
+"y": 240},
   "hardware": {
 "height": 20,
 "pixelRatio": 1,
@@ -1100,7 +1112,13 @@
 "width": 20,
 "x": 240,
 "y": 320},
-  "restaurant": {
+	"restaurant": {
+"height": 20,
+"pixelRatio": 1,
+"width": 20,
+"x": 260,
+"y": 320},
+  "food_court": {
 "height": 20,
 "pixelRatio": 1,
 "width": 20,
