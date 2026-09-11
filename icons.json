@@ -47,7 +47,7 @@
 "width": 20,
 "x": 140,
 "y": 0},
-  "water_pattern": {
+  "XX": {
 "height": 20,
 "pixelRatio": 1,
 "width": 20,
@@ -59,7 +59,7 @@
 "width": 20,
 "x": 180,
 "y": 0},
-  "platform_pattern": {
+  "X": {
 "height": 20,
 "pixelRatio": 1,
 "width": 20,
@@ -383,13 +383,13 @@
 "width": 20,
 "x": 160,
 "y": 80},
-  "aerodrome": {
+  "xx": {
 "height": 20,
 "pixelRatio": 1,
 "width": 20,
 "x": 180,
 "y": 80},
-  "helipad": {
+  "xx": {
 "height": 20,
 "pixelRatio": 1,
 "width": 20,
@@ -587,7 +587,7 @@
 "width": 20,
 "x": 80,
 "y": 140},
-  "saddle": {
+  "XX": {
 "height": 20,
 "pixelRatio": 1,
 "width": 20,
@@ -1662,7 +1662,7 @@
 "width": 20,
 "x": 220,
 "y": 400},
-    "EMPTY_STRING": {
+    "platform_pattern": {
 "height": 20,
 "pixelRatio": 1,
 "width": 20,
@@ -1771,7 +1771,7 @@
 "width": 20,
 "x": 160,
 "y": 440},
-    "EMPTY_STRING": {
+    "water_pattern": {
 "height": 20,
 "pixelRatio": 1,
 "width": 20,
