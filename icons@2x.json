@@ -137,6 +137,18 @@
     "width": 20,
     "x": 160,
     "y": 20},
+  "hostel": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 160,
+    "y": 20},
+  "motel": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 160,
+    "y": 20},
   "hospital": {
     "height": 20,
     "pixelRatio": 1,
