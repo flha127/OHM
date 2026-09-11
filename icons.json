@@ -857,7 +857,13 @@
     "width": 20,
     "x": 100,
     "y": 240},
-  "amusement_arcade": {
+  "wine": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 100,
+    "y": 240},
+  "optician": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
@@ -893,52 +899,88 @@
     "width": 20,
     "x": 220,
     "y": 240},
-  "beauty": {
+  "newsagent": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
     "x": 240,
     "y": 240},
-  "beauty": {
+  "kiosk": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 240,
+    "y": 240},
+  "mobile_phone": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
     "x": 260,
     "y": 240},
-  "beauty": {
+  "laundry": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
     "x": 280,
     "y": 240},
-  "beauty": {
+  "dry_cleaning": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 280,
+    "y": 240},
+  "jewellery": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
     "x": 300,
     "y": 240},
-  "beauty": {
+  "hardware": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
     "x": 320,
     "y": 240},
-  "beauty": {
+  "doityourself": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 320,
+    "y": 240},
+  "electronics": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
     "x": 340,
     "y": 240},
-  "beauty": {
+  "greengrocer": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
     "x": 360,
     "y": 240},
-  "beauty": {
+  "farm": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 360,
+    "y": 240},
+  "gift": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
     "x": 380,
-    "y": 240}
+    "y": 240},
+  "souvenier": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 380,
+    "y": 240},
+  "amusement_arcade": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 0,
+    "y": 280}
 }
