@@ -263,7 +263,7 @@
 "width": 20,
 "x": 20,
 "y": 60},
-   "barbican": {
+   "dgfhdhfggf": {
 "height": 20,
 "pixelRatio": 1,
 "width": 40,
@@ -1100,25 +1100,19 @@
 "width": 20,
 "x": 280,
 "y": 160},
-    "EMPTY_STRING": {
-"height": 20,
+    "barbican": {
+"height": 19,
 "pixelRatio": 1,
-"width": 20,
+"width": 38,
 "x": 300,
 "y": 160},
-    "EMPTY_STRING": {
-"height": 20,
-"pixelRatio": 1,
-"width": 20,
-"x": 320,
-"y": 160},
-    "EMPTY_STRING": {
-"height": 20,
+    "belfry": {
+"height": 40,
 "pixelRatio": 1,
 "width": 20,
 "x": 340,
 "y": 160},
-    "EMPTY_STRING": {
+    "water_gate_middle_ages": {
 "height": 20,
 "pixelRatio": 1,
 "width": 20,
