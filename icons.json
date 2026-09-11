@@ -221,13 +221,13 @@
 "width": 20,
 "x": 140,
 "y": 40},
-  "bunker": {
+  "gfdgfd": {
 "height": 20,
 "pixelRatio": 1,
 "width": 20,
 "x": 160,
 "y": 40},
-  "keep": {
+  "dfsgf": {
 "height": 40,
 "pixelRatio": 1,
 "width": 20,
@@ -1073,40 +1073,28 @@
     "city_gate_early_modern_period": {
 "height": 20,
 "pixelRatio": 1,
-"width": 20,
-"x": 160,
+"width": 30,
+"x": 164,
 "y": 160},
-    "EMPTY_STRING": {
+    "city_gate_18XX": {
+"height": 30,
+"pixelRatio": 1,
+"width": 20,
+"x": 164,
+"y": 160},
+    "fortified_tower": {
 "height": 20,
 "pixelRatio": 1,
 "width": 20,
-"x": 180,
+"x": 224,
 "y": 160},
-    "EMPTY_STRING": {
-"height": 20,
-"pixelRatio": 1,
-"width": 20,
-"x": 200,
-"y": 160},
-    "EMPTY_STRING": {
-"height": 20,
-"pixelRatio": 1,
-"width": 20,
-"x": 220,
-"y": 160},
-    "EMPTY_STRING": {
+    "city_gate_generic": {
 "height": 20,
 "pixelRatio": 1,
 "width": 20,
 "x": 240,
 "y": 160},
-    "EMPTY_STRING": {
-"height": 20,
-"pixelRatio": 1,
-"width": 20,
-"x": 260,
-"y": 160},
-    "EMPTY_STRING": {
+    "water_gate_generic": {
 "height": 20,
 "pixelRatio": 1,
 "width": 20,
