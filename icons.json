@@ -314,7 +314,37 @@
 "width": 20,
 "x": 340,
 "y": 160},
-    "water_gate_middle_ages": {
+    "bastion,ravelin,counterguard,redoubt": {
+"height": 20,
+"pixelRatio": 1,
+"width": 20,
+"x": 360,
+"y": 160},
+	"bastion,ravelin,counterguard,redoubt": {
+"height": 20,
+"pixelRatio": 1,
+"width": 20,
+"x": 360,
+"y": 160},
+	"bastion": {
+"height": 20,
+"pixelRatio": 1,
+"width": 20,
+"x": 360,
+"y": 160},
+	"ravelin": {
+"height": 20,
+"pixelRatio": 1,
+"width": 20,
+"x": 360,
+"y": 160},
+	"counterguard": {
+"height": 20,
+"pixelRatio": 1,
+"width": 20,
+"x": 360,
+"y": 160},
+	"redoubt": {
 "height": 20,
 "pixelRatio": 1,
 "width": 20,
