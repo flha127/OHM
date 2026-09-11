@@ -515,7 +515,7 @@
 "width": 20,
 "x": 100,
 "y": 120},
-  "crane": {
+  "XX": {
 "height": 20,
 "pixelRatio": 1,
 "width": 20,
@@ -809,6 +809,127 @@
 "width": 36,
 "x": 186,
 "y": 200},
+
+	"bailiwick": {
+"height": 20,
+"pixelRatio": 1,
+"width": 20,
+"x": 0,
+"y": 20},
+    "police": {
+"height": 20,
+"pixelRatio": 1,
+"width": 20,
+"x": 20,
+"y": 20},
+    "customs": {
+"height": 20,
+"pixelRatio": 1,
+"width": 20,
+"x": 40,
+"y": 20},
+    "prison": {
+"height": 20,
+"pixelRatio": 1,
+"width": 20,
+"x": 60,
+"y": 20},
+    "courthouse": {
+"height": 20,
+"pixelRatio": 1,
+"width": 20,
+"x": 80,
+"y": 20},
+    "fire_station": {
+"height": 20,
+"pixelRatio": 1,
+"width": 20,
+"x": 100,
+"y": 20},
+    "hospital": {
+"height": 20,
+"pixelRatio": 1,
+"width": 20,
+"x": 120,
+"y": 20},
+    "EMPTY_STRING": {
+"height": 20,
+"pixelRatio": 1,
+"width": 20,
+"x": 140,
+"y": 20},
+    "EMPTY_STRING": {
+"height": 20,
+"pixelRatio": 1,
+"width": 20,
+"x": 160,
+"y": 20},
+    "EMPTY_STRING": {
+"height": 20,
+"pixelRatio": 1,
+"width": 20,
+"x": 180,
+"y": 20},
+    "EMPTY_STRING": {
+"height": 20,
+"pixelRatio": 1,
+"width": 20,
+"x": 200,
+"y": 20},
+    "EMPTY_STRING": {
+"height": 20,
+"pixelRatio": 1,
+"width": 20,
+"x": 220,
+"y": 20},
+    "EMPTY_STRING": {
+"height": 20,
+"pixelRatio": 1,
+"width": 20,
+"x": 240,
+"y": 20},
+    "EMPTY_STRING": {
+"height": 20,
+"pixelRatio": 1,
+"width": 20,
+"x": 260,
+"y": 20},
+    "EMPTY_STRING": {
+"height": 20,
+"pixelRatio": 1,
+"width": 20,
+"x": 280,
+"y": 20},
+    "EMPTY_STRING": {
+"height": 20,
+"pixelRatio": 1,
+"width": 20,
+"x": 300,
+"y": 20},
+    "EMPTY_STRING": {
+"height": 20,
+"pixelRatio": 1,
+"width": 20,
+"x": 320,
+"y": 20},
+    "EMPTY_STRING": {
+"height": 20,
+"pixelRatio": 1,
+"width": 20,
+"x": 340,
+"y": 20},
+    "EMPTY_STRING": {
+"height": 20,
+"pixelRatio": 1,
+"width": 20,
+"x": 360,
+"y": 20},
+    "EMPTY_STRING": {
+"height": 20,
+"pixelRatio": 1,
+"width": 20,
+"x": 380,
+"y": 20},
 
 	"crane": {
 "height": 20,
