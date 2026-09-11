@@ -320,18 +320,6 @@
 "width": 20,
 "x": 340,
 "y": 160},
-    "bastion,ravelin,counterguard,redoubt": {
-"height": 20,
-"pixelRatio": 1,
-"width": 20,
-"x": 360,
-"y": 160},
-	"bastion,ravelin,counterguard,redoubt": {
-"height": 20,
-"pixelRatio": 1,
-"width": 20,
-"x": 360,
-"y": 160},
 	"bastion": {
 "height": 20,
 "pixelRatio": 1,
@@ -356,12 +344,31 @@
 "width": 20,
 "x": 360,
 "y": 160},
-    "EMPTY_STRING": {
+
+	"city_hall": {
+"height": 20,
+"pixelRatio": 1,
+"width": 30,
+"x": 0,
+"y": 180},
+	"town_hall": {
+"height": 20,
+"pixelRatio": 1,
+"width": 30,
+"x": 0,
+"y": 180},
+	"townhall": {
+"height": 20,
+"pixelRatio": 1,
+"width": 30,
+"x": 0,
+"y": 180},
+	"village_hall": {
 "height": 20,
 "pixelRatio": 1,
 "width": 20,
-"x": 380,
-"y": 160},
+"x": 30,
+"y": 180},
 
 	"statue": {
 "height": 20,
