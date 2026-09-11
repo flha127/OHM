@@ -1506,7 +1506,7 @@
 "width": 20,
 "x": 220,
 "y": 440},
-    "EMPTY_STRING": {
+    "tunnel_pattern": {
 "height": 20,
 "pixelRatio": 1,
 "width": 20,
